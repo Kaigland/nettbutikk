@@ -1,0 +1,92 @@
+[
+  {
+    "id": "skaal-eik-01",
+    "navn": "Eikeskål med naturkant",
+    "pris": 895,
+    "kategori": "skåler",
+    "beskrivelse": "Håndskåret eikeskål med bevart naturkant. Hvert eksemplar er unikt med sitt eget særpreg fra treet. Behandlet med food-safe linolje og klar til bruk.",
+    "detaljer": [
+      "Diameter: ca. 25 cm",
+      "Høyde: ca. 8 cm",
+      "Materiale: Norsk eik",
+      "Behandling: Linolje"
+    ],
+    "bilde": "/bilder/eikeskaal.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "skaal-bjork-02",
+    "navn": "Bjørkeskål, liten",
+    "pris": 595,
+    "kategori": "skåler",
+    "beskrivelse": "Liten og elegant skål i bjørk. Perfekt til snacks, smykker eller som dekorasjon. Håndlaget og unik – ingen er like.",
+    "detaljer": [
+      "Diameter: ca. 15 cm",
+      "Høyde: ca. 5 cm",
+      "Materiale: Bjørk",
+      "Behandling: Bivoks"
+    ],
+    "bilde": "/bilder/bjorkeskaal.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "lysestake-ask-01",
+    "navn": "Lysestaker i ask, sett av 2",
+    "pris": 650,
+    "kategori": "lysestaker",
+    "beskrivelse": "Klassiske lysestaker dreid i ask. Selges i sett av to. Passer standard stearinlys med 2,2 cm diameter.",
+    "detaljer": [
+      "Høyde: ca. 12 cm",
+      "Hulldiameter: 2,2 cm",
+      "Materiale: Ask",
+      "Behandling: Voks"
+    ],
+    "bilde": "/bilder/lysestaker-ask.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "lysestake-valn-02",
+    "navn": "Høy lysestake i valnøtt",
+    "pris": 450,
+    "kategori": "lysestaker",
+    "beskrivelse": "Slank og elegant lysestake dreid i valnøtt. Den mørke fargen gir et eksklusivt uttrykk og passer godt til moderne interiør.",
+    "detaljer": [
+      "Høyde: ca. 20 cm",
+      "Hulldiameter: 2,2 cm",
+      "Materiale: Valnøtt",
+      "Behandling: Olje"
+    ],
+    "bilde": "/bilder/Lysestake-i-valnøtt.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "fat-lind-01",
+    "navn": "Servefat i lind",
+    "pris": 750,
+    "kategori": "fat",
+    "beskrivelse": "Romslig servefat utskåret i lind. Ideelt til brød, ost eller frukt på bordet. Behandlet med matolje – trygt for mat.",
+    "detaljer": [
+      "Mål: ca. 35 × 20 cm",
+      "Høyde: ca. 3 cm",
+      "Materiale: Lind",
+      "Behandling: Matolje"
+    ],
+    "bilde": "/bilder/servefat-lind.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "skaal-eik-stor-03",
+    "navn": "Stor salatskål i eik",
+    "pris": 1250,
+    "kategori": "skåler",
+    "beskrivelse": "Stor og imponerende salatskål utskåret i eik. Et blikkfang på ethvert bord. Behandlet med matolje og klar til bruk.",
+    "detaljer": [
+      "Diameter: ca. 35 cm",
+      "Høyde: ca. 12 cm",
+      "Materiale: Norsk eik",
+      "Behandling: Matolje"
+    ],
+    "bilde": "https://picsum.photos/seed/skaal-eik-stor-03/800/600",
+    "lagerstatus": "utsolgt"
+  }
+]

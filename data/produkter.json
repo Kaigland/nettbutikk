@@ -1,14 +1,14 @@
 [
   {
     "id": "skal-1",
-    "navn": "Dreid skål nr. 1",
-    "pris": 650,
+    "navn": "Mellomstor skål",
+    "pris": 469,
     "kategori": "skåler",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Mellomstor skål, perfekt til servering av snacks, nøtter eller frukt.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Materiale: Bjørk fra vestlandet",
+      "Mål: ca. 15 cm i diameter, 7 cm høy",
+      "Behandling: Oljebehandlet med matolje for å fremheve treets naturlige skjønnhet"
     ],
     "bilde": "/bilder/produkter/skal1.jpg",
     "lagerstatus": "på_lager"

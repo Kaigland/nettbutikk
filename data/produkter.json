@@ -1,84 +1,90 @@
 [
   {
     "id": "skal-1",
-    "navn": "Mellomstor skål",
-    "pris": 469,
+    "navn": "Spettet skål i bøtteform nr. 1",
+    "pris": 850,
     "kategori": "skåler",
-    "beskrivelse": "Mellomstor skål, perfekt til servering av snacks, nøtter eller frukt.",
+    "beskrivelse": "Kraftig dreid skål i bøtteform med utoverbrettet kant og markerte riller. Treet har vakker spalting – de mørke, forgrenede linjene er naturens eget mønster og gjør hver skål helt unik.",
     "detaljer": [
-      "Materiale: Bjørk fra vestlandet",
-      "Mål: ca. 15 cm i diameter, 7 cm høy",
-      "Behandling: Oljebehandlet med matolje for å fremheve treets naturlige skjønnhet"
+      "Diameter: ca. 22 cm",
+      "Høyde: ca. 12 cm",
+      "Materiale: Spettet bjørk",
+      "Behandling: Naturlig olje"
     ],
     "bilde": "/bilder/produkter/skal1.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "skal-2",
-    "navn": "Mellomstor skål",
-    "pris": 499,
+    "navn": "Marmorert skål med krage nr. 2",
+    "pris": 750,
     "kategori": "skåler",
-    "beskrivelse": "Mellomstor skål, perfekt til servering av snacks, nøtter eller frukt.",
+    "beskrivelse": "Kompakt dreid skål med bred, innovervendt krage og innsvunget fot. Det lyse treet er gjennomvevd av rødbrune årer som gir et marmorert, eksklusivt uttrykk.",
     "detaljer": [
-      "Materiale: Bjørk fra vestlandet",
-      "Mål: ca. 15 cm i diameter, 7 cm høy",
-      "Behandling: Oljebehandlet med matolje for å fremheve treets naturlige skjønnhet"
+      "Diameter: ca. 18 cm",
+      "Høyde: ca. 10 cm",
+      "Materiale: Spettet bjørk",
+      "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/skal2.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "skal-3",
-    "navn": "Dreid skål nr. 3",
-    "pris": 650,
+    "navn": "Dreid skål med bølgekant nr. 3",
+    "pris": 850,
     "kategori": "skåler",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Dreid skål med en levende, bølgende kant som gir den et skulpturelt uttrykk. Treet har naturlig spalting – de mørke årene er dannet av naturen selv og gjør at ingen to skåler er like. Den høye, utsvingte formen gjør den like fin som blikkfang på bordet som til frukt og småting.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Diameter: ca. 20 cm",
+      "Høyde: ca. 13 cm",
+      "Materiale: Spettet bjørk",
+      "Behandling: Naturlig olje"
     ],
     "bilde": "/bilder/produkter/skal3.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "skal-4",
-    "navn": "Dreid skål nr. 4",
-    "pris": 650,
+    "navn": "Skål med naturkant nr. 4",
+    "pris": 750,
     "kategori": "skåler",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Liten, rustikk skål der den naturlige barkkanten er bevart langs randen. Den organiske, ujevne kanten står i fin kontrast til den glatte, dreide foten – et lite stykke natur til bordet.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Diameter: ca. 15 cm",
+      "Høyde: ca. 9 cm",
+      "Materiale: Norsk løvtre med bark",
+      "Behandling: Naturlig olje"
     ],
     "bilde": "/bilder/produkter/skal4.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "skal-5",
-    "navn": "Dreid skål nr. 5",
-    "pris": 650,
+    "navn": "Gyllen skål med riller nr. 5",
+    "pris": 550,
     "kategori": "skåler",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Liten, harmonisk dreid skål i varmt gyllent tre, avsluttet med to fine riller mot foten. Enkel og tidløs – fin til smykker, nøtter eller som pynt.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Diameter: ca. 13 cm",
+      "Høyde: ca. 9 cm",
+      "Materiale: Bjørk",
+      "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/skal5.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "skal-6",
-    "navn": "Dreid skål nr. 6",
-    "pris": 650,
+    "navn": "Elegant skål med profil nr. 6",
+    "pris": 750,
     "kategori": "skåler",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Dreid skål med markert, utsvunget profil og ren, rett åring. Den klassiske formen og den varme trefargen gjør den like fin i bruk som utstilt.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Diameter: ca. 20 cm",
+      "Høyde: ca. 11 cm",
+      "Materiale: Eik",
+      "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/skal6.jpg",
     "bilder": [
@@ -88,42 +94,45 @@
   },
   {
     "id": "skal-7",
-    "navn": "Dreid skål nr. 7",
-    "pris": 650,
+    "navn": "To-tone skål i to tresorter nr. 7",
+    "pris": 950,
     "kategori": "skåler",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Grunn skål satt sammen av to ulike tresorter – en mørk og en lys halvdel som møtes i et skarpt, grafisk skille. Et moderne blikkfang der håndverket virkelig kommer til sin rett.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Diameter: ca. 20 cm",
+      "Høyde: ca. 6 cm",
+      "Materiale: Valnøtt og eik",
+      "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/skal7.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "skal-8",
-    "navn": "Dreid skål nr. 8",
+    "navn": "Grunn skål med åremønster nr. 8",
     "pris": 650,
     "kategori": "skåler",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Grunn, elegant dreid skål med et vakkert åremønster som samler seg i et «øye» i bunnen. Lyst tre med varme brune toner – tidløs og dekorativ.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Diameter: ca. 20 cm",
+      "Høyde: ca. 7 cm",
+      "Materiale: Bjørk",
+      "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/skal8.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "skal-9",
-    "navn": "Dreid skål nr. 9",
+    "navn": "Flat skål i ask nr. 9",
     "pris": 650,
     "kategori": "skåler",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Lav, vid skål med tydelig, bølgende flammeåring i lyst ask. Den grunne formen gjør den perfekt som fruktfat eller dekorativ skål på bordet.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Diameter: ca. 22 cm",
+      "Høyde: ca. 6 cm",
+      "Materiale: Ask",
+      "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/skal9.jpg",
     "bilder": [
@@ -133,28 +142,30 @@
   },
   {
     "id": "skal-10",
-    "navn": "Dreid skål nr. 10",
+    "navn": "Rustikk skål med rille nr. 10",
     "pris": 650,
     "kategori": "skåler",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Vid, grunn skål med en markert dreid rille rundt sidene og tydelig, levende åring. Matt, naturlig finish gir et rått og rustikt uttrykk.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Diameter: ca. 24 cm",
+      "Høyde: ca. 7 cm",
+      "Materiale: Ask",
+      "Behandling: Ubehandlet"
     ],
     "bilde": "/bilder/produkter/skal10.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "skal-11",
-    "navn": "Dreid skål nr. 11",
-    "pris": 650,
+    "navn": "Bred skål med kontrastrille nr. 11",
+    "pris": 700,
     "kategori": "skåler",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Bred skål i trommelform med kraftig krage og en mørk kontrastrille rundt livet. Det lyse treet har diskré spalting og knaster som gir liv til overflaten.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Diameter: ca. 22 cm",
+      "Høyde: ca. 12 cm",
+      "Materiale: Bjørk",
+      "Behandling: Ubehandlet"
     ],
     "bilde": "/bilder/produkter/skal11.jpg",
     "bilder": [
@@ -164,56 +175,60 @@
   },
   {
     "id": "skal-12",
-    "navn": "Dreid skål nr. 12",
-    "pris": 650,
+    "navn": "Spettet skål i tønneform nr. 12",
+    "pris": 750,
     "kategori": "skåler",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Dreid skål i tønneform med dramatisk spalting – mørke linjer og naturlige sprekker forteller treets historie. Matt, naturlig finish forsterker det rustikke preget.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Diameter: ca. 18 cm",
+      "Høyde: ca. 12 cm",
+      "Materiale: Spettet bjørk",
+      "Behandling: Ubehandlet"
     ],
     "bilde": "/bilder/produkter/skal12.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "skal-13",
-    "navn": "Dreid skål nr. 13",
+    "navn": "Lav skål med doble riller nr. 13",
     "pris": 650,
     "kategori": "skåler",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Lav, symmetrisk skål med to fine kontrastriller rundt sidene. Det lyse treet har en varm, rosaskjær tone – rolig og elegant.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Diameter: ca. 20 cm",
+      "Høyde: ca. 9 cm",
+      "Materiale: Kirsebær",
+      "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/skal13.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "skal-14",
-    "navn": "Dreid skål nr. 14",
-    "pris": 650,
+    "navn": "Rund skål med riller nr. 14",
+    "pris": 600,
     "kategori": "skåler",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Liten, kuleformet skål med dreide kontrastriller. Lyst tre og en myk, avrundet form gjør den til et koselig lite objekt – fin til småting eller pynt.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Diameter: ca. 15 cm",
+      "Høyde: ca. 10 cm",
+      "Materiale: Bjørk",
+      "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/skal14.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "skal-15",
-    "navn": "Dreid skål nr. 15",
-    "pris": 650,
+    "navn": "Høy spettet potteskål nr. 15",
+    "pris": 850,
     "kategori": "skåler",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Høy, potteformet skål med markant spalting – mørke, forgrenede linjer og naturlige sprekker gjør den til et dramatisk blikkfang. Matt finish som lar treet snakke for seg selv.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Diameter: ca. 18 cm",
+      "Høyde: ca. 15 cm",
+      "Materiale: Spettet bjørk",
+      "Behandling: Ubehandlet"
     ],
     "bilde": "/bilder/produkter/skal15.jpg",
     "bilder": [
@@ -223,112 +238,120 @@
   },
   {
     "id": "krukke-1",
-    "navn": "Dreid krukke med lokk nr. 1",
-    "pris": 450,
+    "navn": "Dreid krukke med lokk, pæreform",
+    "pris": 500,
     "kategori": "krukker",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Elegant dreid krukke med tettsittende lokk og dreid knott. Den myke pæreformen og de fine kontrastlinjene gjør den til et dekorativt oppbevaringssted for smått og stort.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Høyde: ca. 15 cm",
+      "Diameter: ca. 10 cm",
+      "Materiale: Bjørk",
+      "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/krukke1.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "krukke-2",
-    "navn": "Dreid krukke med lokk nr. 2",
+    "navn": "Dreid krukke med lokk, lav",
     "pris": 450,
     "kategori": "krukker",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Lav, sopplignende krukke med tettsittende lokk og flat knott. Varmt honningfarget tre med fine kontrastringer mot foten.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Høyde: ca. 12 cm",
+      "Diameter: ca. 11 cm",
+      "Materiale: Bjørk",
+      "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/krukke2.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "krukke-3",
-    "navn": "Dreid krukke med lokk nr. 3",
+    "navn": "Sylindrisk krukke med lokk",
     "pris": 450,
     "kategori": "krukker",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Sylindrisk dreid krukke med lokk og spiss knott. Rene dreide riller og lyst tre gir et stramt, klassisk uttrykk – fin til te, krydder eller småting.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Høyde: ca. 14 cm",
+      "Diameter: ca. 10 cm",
+      "Materiale: Bjørk",
+      "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/krukke3.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "krukke-4",
-    "navn": "Dreid krukke med lokk nr. 4",
+    "navn": "Dreid krukke med lokk, honning",
     "pris": 450,
     "kategori": "krukker",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Kompakt dreid krukke med lokk og dreid knott. Varmt honningfarget tre med kontrastringer – tidløs og dekorativ.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Høyde: ca. 12 cm",
+      "Diameter: ca. 10 cm",
+      "Materiale: Bjørk",
+      "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/krukke4.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "krukke-5",
-    "navn": "Dreid krukke med lokk nr. 5",
+    "navn": "Dreid krukke i urneform",
     "pris": 450,
     "kategori": "krukker",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Dreid krukke i urneform med slank knott og fine kontrastlinjer. Lyst tre med rolig åring.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Høyde: ca. 15 cm",
+      "Diameter: ca. 10 cm",
+      "Materiale: Bjørk",
+      "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/krukke5.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "krukke-6",
-    "navn": "Dreid krukke med lokk nr. 6",
-    "pris": 450,
+    "navn": "Dreid krukke med flammeåring",
+    "pris": 550,
     "kategori": "krukker",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Tønneformet krukke med lokk og markerte dreide ringer. Det lyse treet har vakker rødlig flammeåring som gjør hver krukke unik.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Høyde: ca. 13 cm",
+      "Diameter: ca. 12 cm",
+      "Materiale: Furu",
+      "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/krukke6.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "krukke-7",
-    "navn": "Dreid krukke med lokk nr. 7",
-    "pris": 450,
+    "navn": "Dreid krukke med lærreim",
+    "pris": 600,
     "kategori": "krukker",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Dreid krukke med lokk og en dekorativ lærreim rundt livet – et rustikt og røft detaljvalg som skiller den ut. Praktisk til oppbevaring og fin som pynt.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Høyde: ca. 13 cm",
+      "Diameter: ca. 12 cm",
+      "Materiale: Norsk tre og skinn",
+      "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/krukke7.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "krukke-8",
-    "navn": "Dreid krukke med lokk nr. 8",
-    "pris": 450,
+    "navn": "Dreid krukke med høy knott",
+    "pris": 500,
     "kategori": "krukker",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Dreid krukke med lokk og en høy, elegant dreid knott. Lyst tre med kontrastring og blank overflate.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Høyde: ca. 15 cm",
+      "Diameter: ca. 11 cm",
+      "Materiale: Bjørk",
+      "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/krukke8.jpg",
     "bilder": [
@@ -338,14 +361,15 @@
   },
   {
     "id": "krukke-9",
-    "navn": "Dreid krukke med lokk nr. 9",
-    "pris": 450,
+    "navn": "Rund krukke med lokk",
+    "pris": 500,
     "kategori": "krukker",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Rund, kuleformet krukke med lokk og høy dreid knott. Myk form og lyst tre – like fin åpen som lukket.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Høyde: ca. 15 cm",
+      "Diameter: ca. 12 cm",
+      "Materiale: Bjørk",
+      "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/krukke9.jpg",
     "bilder": [
@@ -355,140 +379,150 @@
   },
   {
     "id": "krukke-10",
-    "navn": "Dreid krukke med lokk nr. 10",
-    "pris": 450,
+    "navn": "Rund krukke med sort lokk",
+    "pris": 600,
     "kategori": "krukker",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Rund krukke i lyst tre med et dramatisk sortbeiset lokk og høy, spiss knott. Kontrasten mellom det lyse treet og det sorte lokket gir et moderne, elegant uttrykk.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Høyde: ca. 16 cm",
+      "Diameter: ca. 12 cm",
+      "Materiale: Bjørk",
+      "Behandling: Olje, sortbeiset lokk"
     ],
     "bilde": "/bilder/produkter/krukke10.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "krukke-11",
-    "navn": "Dreid krukke med lokk nr. 11",
-    "pris": 450,
+    "navn": "Lav krukke med sort lokk",
+    "pris": 600,
     "kategori": "krukker",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Lav, bred krukke med blankt sort lokk og sort knott mot lyst tre. Et stilrent blikkfang med tydelig kontrast.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Høyde: ca. 12 cm",
+      "Diameter: ca. 15 cm",
+      "Materiale: Bjørk",
+      "Behandling: Olje, sortbeiset lokk"
     ],
     "bilde": "/bilder/produkter/krukke11.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "krukke-12",
-    "navn": "Dreid krukke med lokk nr. 12",
-    "pris": 450,
+    "navn": "Ingefærkrukke med sort lokk",
+    "pris": 650,
     "kategori": "krukker",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Høy, elegant krukke i ingefærkrukke-stil med lyst tre og sort lokk med slank, spiss knott. Et dekorativt stykke som står fint alene eller i gruppe.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Høyde: ca. 20 cm",
+      "Diameter: ca. 13 cm",
+      "Materiale: Bjørk",
+      "Behandling: Olje, sortbeiset lokk"
     ],
     "bilde": "/bilder/produkter/krukke12.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "lysestaker-1",
-    "navn": "Lysestake nr. 1",
+    "navn": "Lysestaker i kubbeform, sett av 3",
     "pris": 750,
     "kategori": "lysestaker",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Sett med tre dreide lysestaker i ulik høyde, med markerte riller. For vanlige kronelys – fine samlet i gruppe for et levende lysbilde.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Høyder: ca. 10 / 13 / 16 cm",
+      "Hulldiameter: ca. 2,2 cm",
+      "Materiale: Bjørk",
+      "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/lysestaker1.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "lysestaker-2",
-    "navn": "Lysestake nr. 2",
+    "navn": "Lysestaker i timeglassform, sett av 3",
     "pris": 750,
     "kategori": "lysestaker",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Tre dreide lysestaker i myk timeglassform, i naturlig lyst tre. Enkle og skandinaviske – for kronelys.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Høyde: ca. 8–10 cm",
+      "Hulldiameter: ca. 2,2 cm",
+      "Materiale: Bjørk",
+      "Behandling: Ubehandlet"
     ],
     "bilde": "/bilder/produkter/lysestaker2.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "lysestaker-3",
-    "navn": "Lysestake nr. 3",
-    "pris": 750,
+    "navn": "Høy dreid lysestake",
+    "pris": 450,
     "kategori": "lysestaker",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Klassisk, høy dreid lysestake med elegant profil og bred, stødig fot. For kronelys – tidløs alene eller i par.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Høyde: ca. 22 cm",
+      "Hulldiameter: ca. 2,2 cm",
+      "Materiale: Bjørk",
+      "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/lysestaker3.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "lysestaker-4",
-    "navn": "Lysestake nr. 4",
-    "pris": 750,
+    "navn": "Telysholdere, sett av 2",
+    "pris": 400,
     "kategori": "lysestaker",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "To dreide telysholdere i myk timeglassform. Passer standard telys – koselige på bordet året rundt.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Høyde: ca. 7 cm",
+      "Passer: standard telys",
+      "Materiale: Bjørk",
+      "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/lysestaker4.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "lysestaker-5",
-    "navn": "Lysestake nr. 5",
-    "pris": 750,
+    "navn": "Telysholder i timeglassform",
+    "pris": 250,
     "kategori": "lysestaker",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Enkel dreid telysholder i timeglassform, i varmt lyst tre. Passer standard telys.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Høyde: ca. 8 cm",
+      "Passer: standard telys",
+      "Materiale: Bjørk",
+      "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/lysestaker5.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "lysestaker-6",
-    "navn": "Lysestake nr. 6",
-    "pris": 750,
+    "navn": "Spiral-lysestaker, sett av 2",
+    "pris": 850,
     "kategori": "lysestaker",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Et par høye lysestaker dreid med markert spiral-/skrueprofil. Et moderne og skulpturelt blikkfang for kronelys.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Høyde: ca. 20 cm",
+      "Hulldiameter: ca. 2,2 cm",
+      "Materiale: Bjørk",
+      "Behandling: Ubehandlet"
     ],
     "bilde": "/bilder/produkter/lysestaker6.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "lysestaker-7",
-    "navn": "Lysestake nr. 7",
-    "pris": 750,
+    "navn": "Telysholdere med naturkant, sett av 2",
+    "pris": 450,
     "kategori": "lysestaker",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "To dreide telysholdere der den ene har en bevart naturkant med bark. Rustikk sjarm – passer standard telys.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Høyde: ca. 7 cm",
+      "Passer: standard telys",
+      "Materiale: Norsk løvtre",
+      "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/lysestaker7.jpg",
     "lagerstatus": "på_lager"
@@ -498,53 +532,55 @@
     "navn": "To-etasjes serveringsfat",
     "pris": 850,
     "kategori": "kjøkken",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "To-etasjes dreid serveringsfat med håndtak i midten. To runde fat i avtagende størrelse – flott til kaker, frukt eller bakst, og et dekorativt blikkfang på bordet.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Høyde: ca. 30 cm",
+      "Diameter nederst: ca. 28 cm",
+      "Materiale: Bjørk",
+      "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/2-etasjers-serveringsfat.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "eggeglass-1",
-    "navn": "Eggeglass-sett på snurrebrett nr. 1",
+    "navn": "Eggeglass-sett på snurrebrett",
     "pris": 700,
     "kategori": "kjøkken",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Sett med seks dreide eggeglass på et roterende snurrebrett med håndtak i midten. Praktisk og dekorativt til frokostbordet – snurr rundt og forsyn deg.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "6 eggeglass + snurrebrett",
+      "Høyde: ca. 15 cm",
+      "Materiale: Bjørk",
+      "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/eggeglass1.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "skjaerefjol-1",
-    "navn": "Serveringsbrett med tauhåndtak nr. 1",
+    "navn": "Serveringsbrett med tauhåndtak",
     "pris": 650,
     "kategori": "kjøkken",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Avlangt serveringsbrett med utskåret bølgekant og tauhåndtak i hver ende. Mørkbeiset tre – flott til servering av ost, tapas eller snacks.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Mål: ca. 55 × 18 cm",
+      "Materiale: Furu",
+      "Behandling: Beiset og oljet"
     ],
     "bilde": "/bilder/produkter/skjaerefjol1.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "torkerullholder-1",
-    "navn": "Tørkerullholder nr. 1",
+    "navn": "Tørkerullholder",
     "pris": 500,
     "kategori": "kjøkken",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Dreid tørkerullholder med stødig, bred fot og elegant profil. Passer standard kjøkkenruller – funksjonell og pen på benken.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Høyde: ca. 32 cm",
+      "Materiale: Bjørk",
+      "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/torkerullholder1.jpg",
     "bilder": [
@@ -554,98 +590,98 @@
   },
   {
     "id": "skjaerefjol-2",
-    "navn": "Serveringsbrett med tauhåndtak nr. 2",
+    "navn": "Serveringsbrett med metallhåndtak",
     "pris": 650,
     "kategori": "kjøkken",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Serveringsbrett med organisk bølgekant og sorte metallhåndtak. Gråbeiset tre gir et moderne, landlig uttrykk – like fint som anretningsbrett som til pynt.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Mål: ca. 55 × 20 cm",
+      "Materiale: Furu",
+      "Behandling: Beiset"
     ],
     "bilde": "/bilder/produkter/skjaerefjol2.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "fugl-1",
-    "navn": "Dreid dyrefigur nr. 1",
+    "navn": "Dreid sel",
     "pris": 550,
     "kategori": "figurer",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Håndformet sel med værhår og et vennlig uttrykk. Et sjarmerende lite kunstverk i tre som passer i vinduskarmen eller på hylla.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Lengde: ca. 18 cm",
+      "Materiale: Bjørk",
+      "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/fugl1.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "tre-1",
-    "navn": "Dekortre nr. 1",
-    "pris": 400,
+    "navn": "Dekortrær, sett av 3",
+    "pris": 600,
     "kategori": "figurer",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Sett med tre dreide dekortrær i ulik høyde, formet som stiliserte grantrær. Vakkert spettet tre – fint som pynt året rundt, men ekstra stemningsfullt i juletiden.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Høyder: ca. 15 / 22 / 28 cm",
+      "Materiale: Spettet bjørk",
+      "Behandling: Ubehandlet"
     ],
     "bilde": "/bilder/produkter/tre1.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "fugl-2",
-    "navn": "Dreid dyrefigur nr. 2",
-    "pris": 550,
+    "navn": "Dreid fugl",
+    "pris": 500,
     "kategori": "figurer",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Håndformet fugl med lang, spiss nebb og rund kropp. Enkle former som fanger fuglens karakter – et dekorativt objekt til bord eller hylle.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Lengde: ca. 18 cm",
+      "Materiale: Bjørk",
+      "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/fugl2.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "tre-2",
-    "navn": "Dekortre nr. 2",
-    "pris": 400,
+    "navn": "Dekortrær i bjørk, sett av 3",
+    "pris": 600,
     "kategori": "figurer",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Tre dreide dekortrær i lyst bjørk, i ulik høyde. Stiliserte grantrær som skaper et rolig, nordisk uttrykk – fine i gruppe.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Høyder: ca. 15 / 22 / 28 cm",
+      "Materiale: Bjørk",
+      "Behandling: Ubehandlet"
     ],
     "bilde": "/bilder/produkter/tre2.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "fugl-3",
-    "navn": "Dreid dyrefigur nr. 3",
-    "pris": 550,
+    "navn": "Dreid fugl på sokkel",
+    "pris": 500,
     "kategori": "figurer",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Fugl med lang nebb som bøyer seg nedover, montert på en rund sokkel. Karakterfull og leken – et blikkfang med personlighet.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Høyde: ca. 12 cm",
+      "Materiale: Bjørk",
+      "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/fugl3.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "fugl-4",
-    "navn": "Dreid dyrefigur nr. 4",
+    "navn": "Dreid sel, liten",
     "pris": 550,
     "kategori": "figurer",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Liten håndformet sel med værhår og bløte former. Et koselig lite kunstverk i lyst tre.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Lengde: ca. 15 cm",
+      "Materiale: Bjørk",
+      "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/fugl4.jpg",
     "bilder": [
@@ -655,42 +691,43 @@
   },
   {
     "id": "fugl-5",
-    "navn": "Dreid dyrefigur nr. 5",
+    "navn": "Dreid fugl i spettet tre",
     "pris": 550,
     "kategori": "figurer",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Fugl med lang, spiss nebb formet i vakkert spettet tre. De mørke årene gir figuren liv og gjør den helt unik.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Lengde: ca. 18 cm",
+      "Materiale: Spettet bjørk",
+      "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/fugl5.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "fugl-6",
-    "navn": "Dreid dyrefigur nr. 6",
-    "pris": 550,
+    "navn": "Fuglepar",
+    "pris": 750,
     "kategori": "figurer",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "To håndformede fugler med lange nebb – et lekent par som står fint sammen. Ingen er like.",
     "detaljer": [
-      "Materiale: Norsk tre",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Lengde: ca. 16–18 cm",
+      "Materiale: Bjørk",
+      "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/fugl6.jpg",
     "lagerstatus": "på_lager"
   },
   {
     "id": "bord-1",
-    "navn": "Live-edge småbord nr. 1",
+    "navn": "Live-edge småbord",
     "pris": 1800,
     "kategori": "møbler",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Lite sidebord med bordplate skåret av en naturlig treskive med bevart barkkant, montert på håndbøyde ben i armeringsjern. Et robust og industrielt-rustikt møbel der hver plate er unik.",
     "detaljer": [
+      "Mål: ca. 45 × 35 cm",
+      "Høyde: ca. 45 cm",
       "Materiale: Norsk tre og armeringsjern",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/bord1.jpg",
     "bilder": [
@@ -700,14 +737,15 @@
   },
   {
     "id": "bord-2",
-    "navn": "Live-edge småbord nr. 2",
+    "navn": "Live-edge småbord, kløverform",
     "pris": 1800,
     "kategori": "møbler",
-    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "beskrivelse": "Sidebord med organisk, kløverformet bordplate i tre med bevart barkkant og vakker åring, på håndbøyde armeringsjern-ben. Et unikt statement-møbel.",
     "detaljer": [
+      "Mål: ca. 50 × 40 cm",
+      "Høyde: ca. 45 cm",
       "Materiale: Norsk tre og armeringsjern",
-      "Mål: UTKAST – fyll inn",
-      "Behandling: UTKAST – fyll inn"
+      "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/bord2.jpg",
     "bilder": [

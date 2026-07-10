@@ -5,16 +5,17 @@ import produkter from '@/data/produkter.json';
 import ProductCard from '@/components/ProductCard';
 import { Produkt } from '@/types';
 
-type Filter = 'alle' | 'skåler' | 'krukker' | 'lysestaker' | 'kjøkken' | 'figurer' | 'møbler';
+type Filter = 'alle' | 'skåler' | 'krukker' | 'lysestaker' | 'serveringsfjøl' | 'figurer' | 'møbler' | 'annet';
 
 const kategorier: { verdi: Filter; etikett: string }[] = [
   { verdi: 'alle',       etikett: 'Alle' },
   { verdi: 'skåler',     etikett: 'Skåler' },
   { verdi: 'krukker',    etikett: 'Krukker' },
   { verdi: 'lysestaker', etikett: 'Lysestaker' },
-  { verdi: 'kjøkken',    etikett: 'Kjøkken' },
+  { verdi: 'serveringsfjøl', etikett: 'Serveringsfjøl' },
   { verdi: 'figurer',    etikett: 'Figurer' },
   { verdi: 'møbler',     etikett: 'Møbler' },
+  { verdi: 'annet',      etikett: 'Annet' },
 ];
 
 export default function ProdukterSide() {

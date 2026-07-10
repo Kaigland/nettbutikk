@@ -531,7 +531,7 @@
     "id": "serveringsfat-1",
     "navn": "To-etasjes serveringsfat",
     "pris": 850,
-    "kategori": "kjøkken",
+    "kategori": "annet",
     "beskrivelse": "To-etasjes dreid serveringsfat med håndtak i midten. To runde fat i avtagende størrelse – flott til kaker, frukt eller bakst, og et dekorativt blikkfang på bordet.",
     "detaljer": [
       "Høyde: ca. 30 cm",
@@ -546,7 +546,7 @@
     "id": "eggeglass-1",
     "navn": "Eggeglass-sett på snurrebrett",
     "pris": 700,
-    "kategori": "kjøkken",
+    "kategori": "annet",
     "beskrivelse": "Sett med seks dreide eggeglass på et roterende snurrebrett med håndtak i midten. Praktisk og dekorativt til frokostbordet – snurr rundt og forsyn deg.",
     "detaljer": [
       "6 eggeglass + snurrebrett",
@@ -559,9 +559,9 @@
   },
   {
     "id": "skjaerefjol-1",
-    "navn": "Serveringsbrett med tauhåndtak",
+    "navn": "Serveringsfjøl med tauhåndtak",
     "pris": 650,
-    "kategori": "kjøkken",
+    "kategori": "serveringsfjøl",
     "beskrivelse": "Avlangt serveringsbrett med utskåret bølgekant og tauhåndtak i hver ende. Mørkbeiset tre – flott til servering av ost, tapas eller snacks.",
     "detaljer": [
       "Mål: ca. 55 × 18 cm",
@@ -575,7 +575,7 @@
     "id": "torkerullholder-1",
     "navn": "Tørkerullholder",
     "pris": 500,
-    "kategori": "kjøkken",
+    "kategori": "annet",
     "beskrivelse": "Dreid tørkerullholder med stødig, bred fot og elegant profil. Passer standard kjøkkenruller – funksjonell og pen på benken.",
     "detaljer": [
       "Høyde: ca. 32 cm",
@@ -590,9 +590,9 @@
   },
   {
     "id": "skjaerefjol-2",
-    "navn": "Serveringsbrett med metallhåndtak",
+    "navn": "Serveringsfjøl med metallhåndtak",
     "pris": 650,
-    "kategori": "kjøkken",
+    "kategori": "serveringsfjøl",
     "beskrivelse": "Serveringsbrett med organisk bølgekant og sorte metallhåndtak. Gråbeiset tre gir et moderne, landlig uttrykk – like fint som anretningsbrett som til pynt.",
     "detaljer": [
       "Mål: ca. 55 × 20 cm",

@@ -2,9 +2,10 @@ export type Kategori =
   | 'skåler'
   | 'krukker'
   | 'lysestaker'
-  | 'kjøkken'
+  | 'serveringsfjøl'
   | 'figurer'
-  | 'møbler';
+  | 'møbler'
+  | 'annet';
 
 export interface Produkt {
   id: string;

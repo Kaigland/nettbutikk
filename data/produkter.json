@@ -1,92 +1,718 @@
 [
   {
-    "id": "skaal-eik-01",
-    "navn": "Eikeskål med naturkant",
-    "pris": 895,
-    "kategori": "skåler",
-    "beskrivelse": "Håndskåret eikeskål med bevart naturkant. Hvert eksemplar er unikt med sitt eget særpreg fra treet. Behandlet med food-safe linolje og klar til bruk.",
-    "detaljer": [
-      "Diameter: ca. 25 cm",
-      "Høyde: ca. 8 cm",
-      "Materiale: Norsk eik",
-      "Behandling: Linolje"
-    ],
-    "bilde": "/bilder/eikeskaal.jpg",
-    "lagerstatus": "på_lager"
-  },
-  {
-    "id": "skaal-bjork-02",
-    "navn": "Bjørkeskål, liten",
-    "pris": 10000,
-    "kategori": "skåler",
-    "beskrivelse": "Liten og elegant skål i bjørk. Perfekt til snacks, smykker eller som dekorasjon. Håndlaget og unik – ingen er like.",
-    "detaljer": [
-      "Diameter: ca. 15 cm",
-      "Høyde: ca. 5 cm",
-      "Materiale: Bjørk",
-      "Behandling: Bivoks"
-    ],
-    "bilde": "/bilder/bjorkeskaal.jpg",
-    "lagerstatus": "på_lager"
-  },
-  {
-    "id": "lysestake-ask-01",
-    "navn": "Lysestaker i ask, sett av 2",
+    "id": "skal-1",
+    "navn": "Dreid skål nr. 1",
     "pris": 650,
-    "kategori": "lysestaker",
-    "beskrivelse": "Klassiske lysestaker dreid i ask. Selges i sett av to. Passer standard stearinlys med 2,2 cm diameter.",
-    "detaljer": [
-      "Høyde: ca. 12 cm",
-      "Hulldiameter: 2,2 cm",
-      "Materiale: Ask",
-      "Behandling: Voks"
-    ],
-    "bilde": "/bilder/lysestaker-ask.jpg",
-    "lagerstatus": "på_lager"
-  },
-  {
-    "id": "lysestake-valn-02",
-    "navn": "Høy lysestake i valnøtt",
-    "pris": 450,
-    "kategori": "lysestaker",
-    "beskrivelse": "Slank og elegant lysestake dreid i valnøtt. Den mørke fargen gir et eksklusivt uttrykk og passer godt til moderne interiør.",
-    "detaljer": [
-      "Høyde: ca. 20 cm",
-      "Hulldiameter: 2,2 cm",
-      "Materiale: Valnøtt",
-      "Behandling: Olje"
-    ],
-    "bilde": "/bilder/Lysestake-i-valnøtt.jpg",
-    "lagerstatus": "på_lager"
-  },
-  {
-    "id": "fat-lind-01",
-    "navn": "Servefat i lind",
-    "pris": 750,
-    "kategori": "fat",
-    "beskrivelse": "Romslig servefat utskåret i lind. Ideelt til brød, ost eller frukt på bordet. Behandlet med matolje – trygt for mat.",
-    "detaljer": [
-      "Mål: ca. 35 × 20 cm",
-      "Høyde: ca. 3 cm",
-      "Materiale: Lind",
-      "Behandling: Matolje"
-    ],
-    "bilde": "/bilder/servefat-lind.jpg",
-    "lagerstatus": "på_lager"
-  },
-  {
-    "id": "skaal-eik-stor-03",
-    "navn": "Stor salatskål i eik",
-    "pris": 1250,
     "kategori": "skåler",
-    "beskrivelse": "Stor og imponerende salatskål utskåret i eik. Et blikkfang på ethvert bord. Behandlet med matolje og klar til bruk.",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
     "detaljer": [
-      "Diameter: ca. 35 cm",
-      "Høyde: ca. 12 cm",
-      "Materiale: Norsk eik",
-      "Behandling: Matolje"
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
     ],
-    "bilde": "https://picsum.photos/seed/skaal-eik-stor-03/800/600",
-    "lagerstatus": "utsolgt"
+    "bilde": "/bilder/produkter/skal1.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "skal-2",
+    "navn": "Dreid skål nr. 2",
+    "pris": 650,
+    "kategori": "skåler",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/skal2.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "skal-3",
+    "navn": "Dreid skål nr. 3",
+    "pris": 650,
+    "kategori": "skåler",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/skal3.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "skal-4",
+    "navn": "Dreid skål nr. 4",
+    "pris": 650,
+    "kategori": "skåler",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/skal4.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "skal-5",
+    "navn": "Dreid skål nr. 5",
+    "pris": 650,
+    "kategori": "skåler",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/skal5.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "skal-6",
+    "navn": "Dreid skål nr. 6",
+    "pris": 650,
+    "kategori": "skåler",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/skal6.jpg",
+    "bilder": [
+      "/bilder/produkter/skal6b.jpg"
+    ],
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "skal-7",
+    "navn": "Dreid skål nr. 7",
+    "pris": 650,
+    "kategori": "skåler",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/skal7.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "skal-8",
+    "navn": "Dreid skål nr. 8",
+    "pris": 650,
+    "kategori": "skåler",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/skal8.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "skal-9",
+    "navn": "Dreid skål nr. 9",
+    "pris": 650,
+    "kategori": "skåler",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/skal9.jpg",
+    "bilder": [
+      "/bilder/produkter/skal9b.jpg"
+    ],
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "skal-10",
+    "navn": "Dreid skål nr. 10",
+    "pris": 650,
+    "kategori": "skåler",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/skal10.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "skal-11",
+    "navn": "Dreid skål nr. 11",
+    "pris": 650,
+    "kategori": "skåler",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/skal11.jpg",
+    "bilder": [
+      "/bilder/produkter/skal11b.jpg"
+    ],
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "skal-12",
+    "navn": "Dreid skål nr. 12",
+    "pris": 650,
+    "kategori": "skåler",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/skal12.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "skal-13",
+    "navn": "Dreid skål nr. 13",
+    "pris": 650,
+    "kategori": "skåler",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/skal13.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "skal-14",
+    "navn": "Dreid skål nr. 14",
+    "pris": 650,
+    "kategori": "skåler",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/skal14.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "skal-15",
+    "navn": "Dreid skål nr. 15",
+    "pris": 650,
+    "kategori": "skåler",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/skal15.jpg",
+    "bilder": [
+      "/bilder/produkter/skal15b.jpg"
+    ],
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "krukke-1",
+    "navn": "Dreid krukke med lokk nr. 1",
+    "pris": 450,
+    "kategori": "krukker",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/krukke1.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "krukke-2",
+    "navn": "Dreid krukke med lokk nr. 2",
+    "pris": 450,
+    "kategori": "krukker",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/krukke2.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "krukke-3",
+    "navn": "Dreid krukke med lokk nr. 3",
+    "pris": 450,
+    "kategori": "krukker",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/krukke3.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "krukke-4",
+    "navn": "Dreid krukke med lokk nr. 4",
+    "pris": 450,
+    "kategori": "krukker",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/krukke4.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "krukke-5",
+    "navn": "Dreid krukke med lokk nr. 5",
+    "pris": 450,
+    "kategori": "krukker",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/krukke5.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "krukke-6",
+    "navn": "Dreid krukke med lokk nr. 6",
+    "pris": 450,
+    "kategori": "krukker",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/krukke6.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "krukke-7",
+    "navn": "Dreid krukke med lokk nr. 7",
+    "pris": 450,
+    "kategori": "krukker",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/krukke7.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "krukke-8",
+    "navn": "Dreid krukke med lokk nr. 8",
+    "pris": 450,
+    "kategori": "krukker",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/krukke8.jpg",
+    "bilder": [
+      "/bilder/produkter/krukke8b.jpg"
+    ],
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "krukke-9",
+    "navn": "Dreid krukke med lokk nr. 9",
+    "pris": 450,
+    "kategori": "krukker",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/krukke9.jpg",
+    "bilder": [
+      "/bilder/produkter/krukke9b.jpg"
+    ],
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "krukke-10",
+    "navn": "Dreid krukke med lokk nr. 10",
+    "pris": 450,
+    "kategori": "krukker",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/krukke10.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "krukke-11",
+    "navn": "Dreid krukke med lokk nr. 11",
+    "pris": 450,
+    "kategori": "krukker",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/krukke11.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "krukke-12",
+    "navn": "Dreid krukke med lokk nr. 12",
+    "pris": 450,
+    "kategori": "krukker",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/krukke12.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "lysestaker-1",
+    "navn": "Lysestake nr. 1",
+    "pris": 750,
+    "kategori": "lysestaker",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/lysestaker1.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "lysestaker-2",
+    "navn": "Lysestake nr. 2",
+    "pris": 750,
+    "kategori": "lysestaker",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/lysestaker2.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "lysestaker-3",
+    "navn": "Lysestake nr. 3",
+    "pris": 750,
+    "kategori": "lysestaker",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/lysestaker3.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "lysestaker-4",
+    "navn": "Lysestake nr. 4",
+    "pris": 750,
+    "kategori": "lysestaker",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/lysestaker4.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "lysestaker-5",
+    "navn": "Lysestake nr. 5",
+    "pris": 750,
+    "kategori": "lysestaker",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/lysestaker5.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "lysestaker-6",
+    "navn": "Lysestake nr. 6",
+    "pris": 750,
+    "kategori": "lysestaker",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/lysestaker6.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "lysestaker-7",
+    "navn": "Lysestake nr. 7",
+    "pris": 750,
+    "kategori": "lysestaker",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/lysestaker7.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "serveringsfat-1",
+    "navn": "To-etasjes serveringsfat",
+    "pris": 850,
+    "kategori": "kjøkken",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/2-etasjers-serveringsfat.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "eggeglass-1",
+    "navn": "Eggeglass-sett på snurrebrett nr. 1",
+    "pris": 700,
+    "kategori": "kjøkken",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/eggeglass1.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "skjaerefjol-1",
+    "navn": "Serveringsbrett med tauhåndtak nr. 1",
+    "pris": 650,
+    "kategori": "kjøkken",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/skjaerefjol1.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "torkerullholder-1",
+    "navn": "Tørkerullholder nr. 1",
+    "pris": 500,
+    "kategori": "kjøkken",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/torkerullholder1.jpg",
+    "bilder": [
+      "/bilder/produkter/torkerullholder1b.jpg"
+    ],
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "skjaerefjol-2",
+    "navn": "Serveringsbrett med tauhåndtak nr. 2",
+    "pris": 650,
+    "kategori": "kjøkken",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/skjaerefjol2.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "fugl-1",
+    "navn": "Dreid dyrefigur nr. 1",
+    "pris": 550,
+    "kategori": "figurer",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/fugl1.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "tre-1",
+    "navn": "Dekortre nr. 1",
+    "pris": 400,
+    "kategori": "figurer",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/tre1.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "fugl-2",
+    "navn": "Dreid dyrefigur nr. 2",
+    "pris": 550,
+    "kategori": "figurer",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/fugl2.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "tre-2",
+    "navn": "Dekortre nr. 2",
+    "pris": 400,
+    "kategori": "figurer",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/tre2.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "fugl-3",
+    "navn": "Dreid dyrefigur nr. 3",
+    "pris": 550,
+    "kategori": "figurer",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/fugl3.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "fugl-4",
+    "navn": "Dreid dyrefigur nr. 4",
+    "pris": 550,
+    "kategori": "figurer",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/fugl4.jpg",
+    "bilder": [
+      "/bilder/produkter/fugl4b.jpg"
+    ],
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "fugl-5",
+    "navn": "Dreid dyrefigur nr. 5",
+    "pris": 550,
+    "kategori": "figurer",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/fugl5.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "fugl-6",
+    "navn": "Dreid dyrefigur nr. 6",
+    "pris": 550,
+    "kategori": "figurer",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/fugl6.jpg",
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "bord-1",
+    "navn": "Live-edge småbord nr. 1",
+    "pris": 1800,
+    "kategori": "møbler",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre og armeringsjern",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/bord1.jpg",
+    "bilder": [
+      "/bilder/produkter/bord1b.jpg"
+    ],
+    "lagerstatus": "på_lager"
+  },
+  {
+    "id": "bord-2",
+    "navn": "Live-edge småbord nr. 2",
+    "pris": 1800,
+    "kategori": "møbler",
+    "beskrivelse": "Håndlaget og unik – ingen er like. (UTKAST: fyll inn beskrivelse.)",
+    "detaljer": [
+      "Materiale: Norsk tre og armeringsjern",
+      "Mål: UTKAST – fyll inn",
+      "Behandling: UTKAST – fyll inn"
+    ],
+    "bilde": "/bilder/produkter/bord2.jpg",
+    "bilder": [
+      "/bilder/produkter/bord2b.jpg"
+    ],
+    "lagerstatus": "på_lager"
   }
 ]

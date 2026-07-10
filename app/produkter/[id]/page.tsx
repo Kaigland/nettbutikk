@@ -1,8 +1,8 @@
 import { notFound } from 'next/navigation';
-import Image from 'next/image';
 import Link from 'next/link';
 import produkter from '@/data/produkter.json';
 import AddToCartButton from '@/components/AddToCartButton';
+import ProductGallery from '@/components/ProductGallery';
 import { Produkt } from '@/types';
 
 interface Props {
@@ -33,17 +33,11 @@ export default function ProduktDetalj({ params }: Props) {
       </Link>
 
       <div className="grid gap-12 lg:grid-cols-2">
-        {/* Bilde */}
-        <div className="relative aspect-square rounded-2xl overflow-hidden bg-stone-100 shadow-sm">
-          <Image
-            src={produkt.bilde}
-            alt={produkt.navn}
-            fill
-            sizes="(max-width: 1024px) 100vw, 50vw"
-            className="object-cover"
-            priority
-          />
-        </div>
+        {/* Bilder */}
+        <ProductGallery
+          bilder={[produkt.bilde, ...(produkt.bilder ?? [])]}
+          alt={produkt.navn}
+        />
 
         {/* Info */}
         <div className="flex flex-col">

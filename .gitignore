@@ -41,6 +41,9 @@ yarn-error.log*
 # vercel
 .vercel
 
+# originalbilder (tunge arkivkopier – kun web-versjoner i public/bilder/produkter/ committes)
+/public/bilder/Originalbilder/
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts

@@ -5,18 +5,20 @@ import produkter from '@/data/produkter.json';
 import ProductCard from '@/components/ProductCard';
 import { Produkt } from '@/types';
 
-type Kategori = 'alle' | 'skåler' | 'lysestaker' | 'fat' | 'annet';
+type Filter = 'alle' | 'skåler' | 'krukker' | 'lysestaker' | 'kjøkken' | 'figurer' | 'møbler';
 
-const kategorier: { verdi: Kategori; etikett: string }[] = [
+const kategorier: { verdi: Filter; etikett: string }[] = [
   { verdi: 'alle',       etikett: 'Alle' },
   { verdi: 'skåler',     etikett: 'Skåler' },
+  { verdi: 'krukker',    etikett: 'Krukker' },
   { verdi: 'lysestaker', etikett: 'Lysestaker' },
-  { verdi: 'fat',        etikett: 'Fat' },
-  { verdi: 'annet',      etikett: 'Annet' },
+  { verdi: 'kjøkken',    etikett: 'Kjøkken' },
+  { verdi: 'figurer',    etikett: 'Figurer' },
+  { verdi: 'møbler',     etikett: 'Møbler' },
 ];
 
 export default function ProdukterSide() {
-  const [valgtKategori, setValgtKategori] = useState<Kategori>('alle');
+  const [valgtKategori, setValgtKategori] = useState<Filter>('alle');
 
   const filtrert = (produkter as Produkt[]).filter(
     p => valgtKategori === 'alle' || p.kategori === valgtKategori

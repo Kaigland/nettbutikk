@@ -1,7 +1,7 @@
 [
   {
     "id": "skal-1",
-    "navn": "Spettet skål i bøtteform nr. 1",
+    "navn": "Spettet skål i bøtteform",
     "pris": 850,
     "kategori": "skåler",
     "beskrivelse": "Kraftig dreid skål i bøtteform med utoverbrettet kant og markerte riller. Treet har vakker spalting – de mørke, forgrenede linjene er naturens eget mønster og gjør hver skål helt unik.",
@@ -16,7 +16,7 @@
   },
   {
     "id": "skal-2",
-    "navn": "Marmorert skål med krage nr. 2",
+    "navn": "Marmorert skål med krage",
     "pris": 750,
     "kategori": "skåler",
     "beskrivelse": "Kompakt dreid skål med bred, innovervendt krage og innsvunget fot. Det lyse treet er gjennomvevd av rødbrune årer som gir et marmorert, eksklusivt uttrykk.",
@@ -31,7 +31,7 @@
   },
   {
     "id": "skal-3",
-    "navn": "Dreid skål med bølgekant nr. 3",
+    "navn": "Dreid skål med bølgekant",
     "pris": 850,
     "kategori": "skåler",
     "beskrivelse": "Dreid skål med en levende, bølgende kant som gir den et skulpturelt uttrykk. Treet har naturlig spalting – de mørke årene er dannet av naturen selv og gjør at ingen to skåler er like. Den høye, utsvingte formen gjør den like fin som blikkfang på bordet som til frukt og småting.",
@@ -46,7 +46,7 @@
   },
   {
     "id": "skal-4",
-    "navn": "Skål med naturkant nr. 4",
+    "navn": "Skål med naturkant",
     "pris": 750,
     "kategori": "skåler",
     "beskrivelse": "Liten, rustikk skål der den naturlige barkkanten er bevart langs randen. Den organiske, ujevne kanten står i fin kontrast til den glatte, dreide foten – et lite stykke natur til bordet.",
@@ -61,7 +61,7 @@
   },
   {
     "id": "skal-5",
-    "navn": "Gyllen skål med riller nr. 5",
+    "navn": "Gyllen skål med riller",
     "pris": 550,
     "kategori": "skåler",
     "beskrivelse": "Liten, harmonisk dreid skål i varmt gyllent tre, avsluttet med to fine riller mot foten. Enkel og tidløs – fin til smykker, nøtter eller som pynt.",
@@ -76,7 +76,7 @@
   },
   {
     "id": "skal-6",
-    "navn": "Elegant skål med profil nr. 6",
+    "navn": "Elegant skål med profil",
     "pris": 750,
     "kategori": "skåler",
     "beskrivelse": "Dreid skål med markert, utsvunget profil og ren, rett åring. Den klassiske formen og den varme trefargen gjør den like fin i bruk som utstilt.",
@@ -94,7 +94,7 @@
   },
   {
     "id": "skal-7",
-    "navn": "To-tone skål i to tresorter nr. 7",
+    "navn": "To-tone skål i to tresorter",
     "pris": 950,
     "kategori": "skåler",
     "beskrivelse": "Grunn skål satt sammen av to ulike tresorter – en mørk og en lys halvdel som møtes i et skarpt, grafisk skille. Et moderne blikkfang der håndverket virkelig kommer til sin rett.",
@@ -109,7 +109,7 @@
   },
   {
     "id": "skal-8",
-    "navn": "Grunn skål med åremønster nr. 8",
+    "navn": "Grunn skål med åremønster",
     "pris": 650,
     "kategori": "skåler",
     "beskrivelse": "Grunn, elegant dreid skål med et vakkert åremønster som samler seg i et «øye» i bunnen. Lyst tre med varme brune toner – tidløs og dekorativ.",
@@ -124,7 +124,7 @@
   },
   {
     "id": "skal-9",
-    "navn": "Flat skål i ask nr. 9",
+    "navn": "Flat skål i ask",
     "pris": 650,
     "kategori": "skåler",
     "beskrivelse": "Lav, vid skål med tydelig, bølgende flammeåring i lyst ask. Den grunne formen gjør den perfekt som fruktfat eller dekorativ skål på bordet.",
@@ -142,7 +142,7 @@
   },
   {
     "id": "skal-10",
-    "navn": "Rustikk skål med rille nr. 10",
+    "navn": "Rustikk skål med rille",
     "pris": 650,
     "kategori": "skåler",
     "beskrivelse": "Vid, grunn skål med en markert dreid rille rundt sidene og tydelig, levende åring. Matt, naturlig finish gir et rått og rustikt uttrykk.",
@@ -157,7 +157,7 @@
   },
   {
     "id": "skal-11",
-    "navn": "Bred skål med kontrastrille nr. 11",
+    "navn": "Bred skål med kontrastrille",
     "pris": 700,
     "kategori": "skåler",
     "beskrivelse": "Bred skål i trommelform med kraftig krage og en mørk kontrastrille rundt livet. Det lyse treet har diskré spalting og knaster som gir liv til overflaten.",
@@ -175,7 +175,7 @@
   },
   {
     "id": "skal-12",
-    "navn": "Spettet skål i tønneform nr. 12",
+    "navn": "Spettet skål i tønneform",
     "pris": 750,
     "kategori": "skåler",
     "beskrivelse": "Dreid skål i tønneform med dramatisk spalting – mørke linjer og naturlige sprekker forteller treets historie. Matt, naturlig finish forsterker det rustikke preget.",
@@ -190,7 +190,7 @@
   },
   {
     "id": "skal-13",
-    "navn": "Lav skål med doble riller nr. 13",
+    "navn": "Lav skål med doble riller",
     "pris": 650,
     "kategori": "skåler",
     "beskrivelse": "Lav, symmetrisk skål med to fine kontrastriller rundt sidene. Det lyse treet har en varm, rosaskjær tone – rolig og elegant.",
@@ -205,7 +205,7 @@
   },
   {
     "id": "skal-14",
-    "navn": "Rund skål med riller nr. 14",
+    "navn": "Rund skål med riller",
     "pris": 600,
     "kategori": "skåler",
     "beskrivelse": "Liten, kuleformet skål med dreide kontrastriller. Lyst tre og en myk, avrundet form gjør den til et koselig lite objekt – fin til småting eller pynt.",
@@ -220,7 +220,7 @@
   },
   {
     "id": "skal-15",
-    "navn": "Høy spettet potteskål nr. 15",
+    "navn": "Høy spettet potteskål",
     "pris": 850,
     "kategori": "skåler",
     "beskrivelse": "Høy, potteformet skål med markant spalting – mørke, forgrenede linjer og naturlige sprekker gjør den til et dramatisk blikkfang. Matt finish som lar treet snakke for seg selv.",

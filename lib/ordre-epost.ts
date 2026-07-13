@@ -67,7 +67,7 @@ export function byggOrdreHtml({ navn, linjer, totalKr, leveringsadresse }: Ordre
       <p style="color:#78716c;font-size:14px">Har du spørsmål? Svar på denne e-posten.</p>
 
       <hr style="border:none;border-top:1px solid #e7e5e4;margin:24px 0"/>
-      <p style="color:#a8a29e;font-size:12px;text-align:center">Igland Treskjæring</p>
+      <p style="color:#a8a29e;font-size:12px;text-align:center">Igland Woodcraft</p>
     </div>
   `;
 }

@@ -10,7 +10,7 @@ const MSN = process.env.VIPPS_MSN ?? '';
 
 // Sendes med som identifikasjon av integrasjonen (anbefalt av Vipps).
 const SYSTEM_HEADERS: Record<string, string> = {
-  'Vipps-System-Name': 'igland-treskjaering',
+  'Vipps-System-Name': 'Igland Woodcraft',
   'Vipps-System-Version': '1.0.0',
   'Vipps-System-Plugin-Name': 'nettbutikk-custom',
   'Vipps-System-Plugin-Version': '1.0.0',

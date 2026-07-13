@@ -18,6 +18,8 @@ export interface Produkt {
   /** Ekstra bilder til galleri (valgfritt). Hovedbildet er `bilde`. */
   bilder?: string[];
   lagerstatus: 'på_lager' | 'utsolgt';
+  /** Vises i «Fremhevede produkter» på forsiden. */
+  fremhevet: boolean;
 }
 
 export interface KurvVare {

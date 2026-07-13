@@ -4,7 +4,7 @@ import ProductCard from '@/components/ProductCard';
 import { Produkt } from '@/types';
 
 export default function Hjem() {
-  const fremhevede = (produkter as Produkt[]).filter(p => p.lagerstatus === 'på_lager').slice(0, 3);
+  const fremhevede = (produkter as Produkt[]).filter(p => p.fremhevet);
 
   return (
     <>

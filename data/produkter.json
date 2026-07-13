@@ -12,7 +12,8 @@
       "Behandling: Naturlig olje"
     ],
     "bilde": "/bilder/produkter/skal1.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": true
   },
   {
     "id": "skal-2",
@@ -27,7 +28,8 @@
       "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/skal2.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "skal-3",
@@ -42,7 +44,8 @@
       "Behandling: Naturlig olje"
     ],
     "bilde": "/bilder/produkter/skal3.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "skal-4",
@@ -57,7 +60,8 @@
       "Behandling: Naturlig olje"
     ],
     "bilde": "/bilder/produkter/skal4.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "skal-5",
@@ -72,7 +76,8 @@
       "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/skal5.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "skal-6",
@@ -90,7 +95,8 @@
     "bilder": [
       "/bilder/produkter/skal6b.jpg"
     ],
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "skal-7",
@@ -105,7 +111,8 @@
       "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/skal7.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "skal-8",
@@ -120,7 +127,8 @@
       "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/skal8.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "skal-9",
@@ -138,7 +146,8 @@
     "bilder": [
       "/bilder/produkter/skal9b.jpg"
     ],
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "skal-10",
@@ -153,7 +162,8 @@
       "Behandling: Ubehandlet"
     ],
     "bilde": "/bilder/produkter/skal10.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "skal-11",
@@ -171,7 +181,8 @@
     "bilder": [
       "/bilder/produkter/skal11b.jpg"
     ],
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "skal-12",
@@ -186,7 +197,8 @@
       "Behandling: Ubehandlet"
     ],
     "bilde": "/bilder/produkter/skal12.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "skal-13",
@@ -201,7 +213,8 @@
       "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/skal13.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "skal-14",
@@ -216,7 +229,8 @@
       "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/skal14.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "skal-15",
@@ -234,7 +248,8 @@
     "bilder": [
       "/bilder/produkter/skal15b.jpg"
     ],
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "krukke-1",
@@ -249,7 +264,8 @@
       "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/krukke1.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "krukke-2",
@@ -264,7 +280,8 @@
       "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/krukke2.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "krukke-3",
@@ -279,7 +296,8 @@
       "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/krukke3.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "krukke-4",
@@ -294,7 +312,8 @@
       "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/krukke4.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "krukke-5",
@@ -309,7 +328,8 @@
       "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/krukke5.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "krukke-6",
@@ -324,7 +344,8 @@
       "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/krukke6.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "krukke-7",
@@ -339,7 +360,8 @@
       "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/krukke7.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": true
   },
   {
     "id": "krukke-8",
@@ -357,7 +379,8 @@
     "bilder": [
       "/bilder/produkter/krukke8b.jpg"
     ],
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "krukke-9",
@@ -375,7 +398,8 @@
     "bilder": [
       "/bilder/produkter/krukke9b.jpg"
     ],
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "krukke-10",
@@ -390,7 +414,8 @@
       "Behandling: Olje, sortbeiset lokk"
     ],
     "bilde": "/bilder/produkter/krukke10.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "krukke-11",
@@ -405,7 +430,8 @@
       "Behandling: Olje, sortbeiset lokk"
     ],
     "bilde": "/bilder/produkter/krukke11.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "krukke-12",
@@ -420,7 +446,8 @@
       "Behandling: Olje, sortbeiset lokk"
     ],
     "bilde": "/bilder/produkter/krukke12.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "lysestaker-1",
@@ -435,7 +462,8 @@
       "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/lysestaker1.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "lysestaker-2",
@@ -450,7 +478,8 @@
       "Behandling: Ubehandlet"
     ],
     "bilde": "/bilder/produkter/lysestaker2.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "lysestaker-3",
@@ -465,7 +494,8 @@
       "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/lysestaker3.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "lysestaker-4",
@@ -480,7 +510,8 @@
       "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/lysestaker4.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "lysestaker-5",
@@ -495,7 +526,8 @@
       "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/lysestaker5.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "lysestaker-6",
@@ -510,7 +542,8 @@
       "Behandling: Ubehandlet"
     ],
     "bilde": "/bilder/produkter/lysestaker6.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "lysestaker-7",
@@ -525,7 +558,8 @@
       "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/lysestaker7.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "serveringsfat-1",
@@ -540,7 +574,8 @@
       "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/2-etasjers-serveringsfat.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "eggeglass-1",
@@ -555,7 +590,8 @@
       "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/eggeglass1.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "skjaerefjol-1",
@@ -569,7 +605,8 @@
       "Behandling: Beiset og oljet"
     ],
     "bilde": "/bilder/produkter/skjaerefjol1.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "torkerullholder-1",
@@ -586,7 +623,8 @@
     "bilder": [
       "/bilder/produkter/torkerullholder1b.jpg"
     ],
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "skjaerefjol-2",
@@ -600,7 +638,8 @@
       "Behandling: Beiset"
     ],
     "bilde": "/bilder/produkter/skjaerefjol2.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "fugl-1",
@@ -614,7 +653,8 @@
       "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/fugl1.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "tre-1",
@@ -628,7 +668,8 @@
       "Behandling: Ubehandlet"
     ],
     "bilde": "/bilder/produkter/tre1.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "fugl-2",
@@ -642,7 +683,8 @@
       "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/fugl2.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "tre-2",
@@ -656,7 +698,8 @@
       "Behandling: Ubehandlet"
     ],
     "bilde": "/bilder/produkter/tre2.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "fugl-3",
@@ -670,7 +713,8 @@
       "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/fugl3.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "fugl-4",
@@ -687,7 +731,8 @@
     "bilder": [
       "/bilder/produkter/fugl4b.jpg"
     ],
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "fugl-5",
@@ -701,7 +746,8 @@
       "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/fugl5.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "fugl-6",
@@ -715,7 +761,8 @@
       "Behandling: Olje"
     ],
     "bilde": "/bilder/produkter/fugl6.jpg",
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   },
   {
     "id": "bord-1",
@@ -733,7 +780,8 @@
     "bilder": [
       "/bilder/produkter/bord1b.jpg"
     ],
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": true
   },
   {
     "id": "bord-2",
@@ -751,6 +799,7 @@
     "bilder": [
       "/bilder/produkter/bord2b.jpg"
     ],
-    "lagerstatus": "på_lager"
+    "lagerstatus": "på_lager",
+    "fremhevet": false
   }
 ]

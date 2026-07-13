@@ -5,7 +5,7 @@ export default function Footer() {
     <footer className="bg-stone-900 text-stone-300 py-14">
       <div className="mx-auto max-w-6xl px-6 grid gap-10 md:grid-cols-3">
         <div>
-          <h3 className="font-serif text-white text-xl font-bold">Igland Treskjæring</h3>
+          <h3 className="font-serif text-white text-xl font-bold">Igland Woodcraft</h3>
           <p className="mt-3 text-sm leading-relaxed text-stone-400">
             Håndskårne og dreide produkter i norsk tre. Laget med kjærlighet og respekt
             for materialet og håndverkstradisjonen.

@@ -18,7 +18,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: 'Igland Treskjæring – Håndskåret i norsk tre',
+  title: 'Igland Woodcraft – Håndskåret i norsk tre',
   description:
     'Unike skåler, lysestaker og fat laget for hånd i norsk tre. Hvert produkt er unikt.',
 };

@@ -4,7 +4,7 @@ export type Kategori =
   | 'lysestaker'
   | 'serveringsfjøl'
   | 'figurer'
-  | 'møbler'
+  | 'Bord'
   | 'annet';
 
 export interface Produkt {

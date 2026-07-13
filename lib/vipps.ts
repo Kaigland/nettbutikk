@@ -68,7 +68,7 @@ export async function opprettVippsBetaling(input: OpprettBetalingInput): Promise
     reference: input.referanse,
     returnUrl: input.returUrl,
     userFlow: 'WEB_REDIRECT',
-    paymentDescription: 'Igland Treskjæring',
+    paymentDescription: 'Igland Woodcraft',
   };
   if (input.telefon) {
     body.customer = { phoneNumber: input.telefon };

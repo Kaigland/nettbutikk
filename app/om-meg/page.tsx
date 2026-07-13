@@ -1,8 +1,8 @@
 import Image from 'next/image';
 
 export const metadata = {
-  title: 'Om meg – Igland Treskjæring',
-  description: 'Les om håndverket og menneskene bak Igland Treskjæring.',
+  title: 'Om meg – Igland Woodcraft',
+  description: 'Les om håndverket og menneskene bak Igland Woodcraft.',
 };
 
 export default function OmMeg() {
@@ -12,7 +12,7 @@ export default function OmMeg() {
       <h1 className="mt-2 font-serif text-4xl md:text-5xl font-bold text-stone-800">Om meg og håndverket</h1>
 
       <div className="mt-8 relative w-full aspect-[16/9] rounded-2xl overflow-hidden">
-        <Image src="/bilder/om-meg.jpg" alt="Igland Treskjæring" fill className="object-cover" sizes="(max-width: 768px) 100vw, 768px" />
+        <Image src="/bilder/om-meg.jpg" alt="Igland Woodcraft" fill className="object-cover" sizes="(max-width: 768px) 100vw, 768px" />
       </div>
 
       <div className="mt-10 space-y-12 text-stone-600 leading-relaxed text-base">
@@ -50,7 +50,7 @@ export default function OmMeg() {
             produkt i en bestemt størrelse? Ta gjerne kontakt, så finner vi en løsning.
           </p>
           <a
-            href="mailto:post@igland-treskjæring.no"
+            href="mailto:post@iglandwoodcraft.com"
             className="inline-block rounded-xl bg-stone-800 px-6 py-3 text-white font-semibold hover:bg-stone-700 transition-colors text-sm"
           >
             Send en e-post

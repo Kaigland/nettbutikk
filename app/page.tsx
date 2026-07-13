@@ -18,7 +18,7 @@ export default function Hjem() {
             Skåret ut av<br />
             norsk tre
           </h1>
-          <p className="mt-6 text-lg text-stone-400 max-w-xl mx-auto leading-relaxed">
+          <p className="mt-6 text-lg text-stone-800 max-w-xl mx-auto leading-relaxed">
             Skåler, krukker og lysestaker, serveringsfat, bord og små trefigurer – alt
             formet for hånd i norsk tre, med respekt for materialet og
             tradisjonshåndverket. Spalting og naturlig åring gjør hvert stykke unikt.

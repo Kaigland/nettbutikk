@@ -19,8 +19,9 @@ export default function Hjem() {
             norsk tre
           </h1>
           <p className="mt-6 text-lg text-stone-300 max-w-xl mx-auto leading-relaxed">
-            Unike skåler, lysestaker og fat – laget for hånd med respekt for materialet
-            og tradisjonshåndverket.
+            Skåler, krukker og lysestaker, serveringsfat, bord og små trefigurer – alt
+            formet for hånd i norsk tre, med respekt for materialet og
+            tradisjonshåndverket. Spalting og naturlig åring gjør hvert stykke unikt.
           </p>
           <div className="mt-10 flex flex-col sm:flex-row gap-4 justify-center">
             <Link

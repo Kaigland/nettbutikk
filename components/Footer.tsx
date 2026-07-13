@@ -25,8 +25,8 @@ export default function Footer() {
           <h4 className="font-semibold text-white text-sm uppercase tracking-wider">Kontakt</h4>
           <ul className="mt-4 space-y-2 text-sm text-stone-400">
             <li>
-              <a href="mailto:post@igland-treskjæring.no" className="hover:text-white transition-colors">
-                post@igland-treskjæring.no
+              <a href="mailto:post@iglandwoodcraft.com" className="hover:text-white transition-colors">
+                post@iglandwoodcraft.com
               </a>
             </li>
             <li>+47 415 07 491</li>
@@ -36,7 +36,7 @@ export default function Footer() {
       </div>
 
       <div className="mx-auto max-w-6xl px-6 mt-10 border-t border-stone-700 pt-6 text-center text-xs text-stone-500">
-        &copy; {new Date().getFullYear()} Igland Treskjæring. Alle rettigheter forbeholdt.
+        &copy; {new Date().getFullYear()} Igland Woodcraft. Alle rettigheter forbeholdt.
       </div>
     </footer>
   );

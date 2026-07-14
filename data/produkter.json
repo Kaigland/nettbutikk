@@ -2,14 +2,22 @@
   {
     "id": "skal-1",
     "navn": "Spettet skål i bøtteform",
+    "navn_en": "Spalted bucket-shaped bowl",
     "pris": 850,
     "kategori": "skåler",
     "beskrivelse": "Kraftig dreid skål i bøtteform med utoverbrettet kant og markerte riller. Treet har vakker spalting – de mørke, forgrenede linjene er naturens eget mønster og gjør hver skål helt unik.",
+    "beskrivelse_en": "A sturdy turned bucket-shaped bowl with a flared rim and pronounced grooves. The wood has beautiful spalting – the dark, branching lines are nature's own pattern and make every bowl completely unique.",
     "detaljer": [
       "Diameter: ca. 22 cm",
       "Høyde: ca. 12 cm",
       "Materiale: Spettet bjørk",
       "Behandling: Naturlig olje"
+    ],
+    "detaljer_en": [
+      "Diameter: approx. 22 cm",
+      "Height: approx. 12 cm",
+      "Material: Spalted birch",
+      "Treatment: Natural oil"
     ],
     "bilde": "/bilder/produkter/skal1.jpg",
     "lagerstatus": "på_lager",
@@ -18,14 +26,22 @@
   {
     "id": "skal-2",
     "navn": "Marmorert skål med krage",
+    "navn_en": "Marbled bowl with collar",
     "pris": 750,
     "kategori": "skåler",
     "beskrivelse": "Kompakt dreid skål med bred, innovervendt krage og innsvunget fot. Det lyse treet er gjennomvevd av rødbrune årer som gir et marmorert, eksklusivt uttrykk.",
+    "beskrivelse_en": "A compact turned bowl with a wide, inward-curving collar and a tapered foot. The pale wood is threaded with reddish-brown veins that give it a marbled, exclusive look.",
     "detaljer": [
       "Diameter: ca. 18 cm",
       "Høyde: ca. 10 cm",
       "Materiale: Spettet bjørk",
       "Behandling: Olje"
+    ],
+    "detaljer_en": [
+      "Diameter: approx. 18 cm",
+      "Height: approx. 10 cm",
+      "Material: Spalted birch",
+      "Treatment: Oil"
     ],
     "bilde": "/bilder/produkter/skal2.jpg",
     "lagerstatus": "på_lager",
@@ -34,14 +50,22 @@
   {
     "id": "skal-3",
     "navn": "Dreid skål med bølgekant",
+    "navn_en": "Turned bowl with wavy rim",
     "pris": 850,
     "kategori": "skåler",
     "beskrivelse": "Dreid skål med en levende, bølgende kant som gir den et skulpturelt uttrykk. Treet har naturlig spalting – de mørke årene er dannet av naturen selv og gjør at ingen to skåler er like. Den høye, utsvingte formen gjør den like fin som blikkfang på bordet som til frukt og småting.",
+    "beskrivelse_en": "A turned bowl with a lively, undulating rim that gives it a sculptural expression. The wood has natural spalting – the dark veins were formed by nature itself, so no two bowls are alike. The tall, flared shape makes it just as striking as a centrepiece as it is for fruit and small items.",
     "detaljer": [
       "Diameter: ca. 20 cm",
       "Høyde: ca. 13 cm",
       "Materiale: Spettet bjørk",
       "Behandling: Naturlig olje"
+    ],
+    "detaljer_en": [
+      "Diameter: approx. 20 cm",
+      "Height: approx. 13 cm",
+      "Material: Spalted birch",
+      "Treatment: Natural oil"
     ],
     "bilde": "/bilder/produkter/skal3.jpg",
     "lagerstatus": "på_lager",
@@ -50,14 +74,22 @@
   {
     "id": "skal-4",
     "navn": "Skål med naturkant",
+    "navn_en": "Bowl with natural edge",
     "pris": 750,
     "kategori": "skåler",
     "beskrivelse": "Liten, rustikk skål der den naturlige barkkanten er bevart langs randen. Den organiske, ujevne kanten står i fin kontrast til den glatte, dreide foten – et lite stykke natur til bordet.",
+    "beskrivelse_en": "A small, rustic bowl where the natural bark edge has been preserved along the rim. The organic, uneven edge contrasts beautifully with the smooth, turned foot – a little piece of nature for the table.",
     "detaljer": [
       "Diameter: ca. 15 cm",
       "Høyde: ca. 9 cm",
       "Materiale: Norsk løvtre med bark",
       "Behandling: Naturlig olje"
+    ],
+    "detaljer_en": [
+      "Diameter: approx. 15 cm",
+      "Height: approx. 9 cm",
+      "Material: Norwegian hardwood with bark",
+      "Treatment: Natural oil"
     ],
     "bilde": "/bilder/produkter/skal4.jpg",
     "lagerstatus": "på_lager",
@@ -66,14 +98,22 @@
   {
     "id": "skal-5",
     "navn": "Gyllen skål med riller",
+    "navn_en": "Golden bowl with grooves",
     "pris": 550,
     "kategori": "skåler",
     "beskrivelse": "Liten, harmonisk dreid skål i varmt gyllent tre, avsluttet med to fine riller mot foten. Enkel og tidløs – fin til smykker, nøtter eller som pynt.",
+    "beskrivelse_en": "A small, harmoniously turned bowl in warm golden wood, finished with two fine grooves towards the foot. Simple and timeless – lovely for jewellery, nuts or as decoration.",
     "detaljer": [
       "Diameter: ca. 13 cm",
       "Høyde: ca. 9 cm",
       "Materiale: Bjørk",
       "Behandling: Olje"
+    ],
+    "detaljer_en": [
+      "Diameter: approx. 13 cm",
+      "Height: approx. 9 cm",
+      "Material: Birch",
+      "Treatment: Oil"
     ],
     "bilde": "/bilder/produkter/skal5.jpg",
     "lagerstatus": "på_lager",
@@ -82,14 +122,22 @@
   {
     "id": "skal-6",
     "navn": "Elegant skål med profil",
+    "navn_en": "Elegant profiled bowl",
     "pris": 750,
     "kategori": "skåler",
     "beskrivelse": "Dreid skål med markert, utsvunget profil og ren, rett åring. Den klassiske formen og den varme trefargen gjør den like fin i bruk som utstilt.",
+    "beskrivelse_en": "A turned bowl with a pronounced, flared profile and clean, straight grain. The classic shape and warm wood tone make it just as beautiful in use as on display.",
     "detaljer": [
       "Diameter: ca. 20 cm",
       "Høyde: ca. 11 cm",
       "Materiale: Eik",
       "Behandling: Olje"
+    ],
+    "detaljer_en": [
+      "Diameter: approx. 20 cm",
+      "Height: approx. 11 cm",
+      "Material: Oak",
+      "Treatment: Oil"
     ],
     "bilde": "/bilder/produkter/skal6.jpg",
     "bilder": [
@@ -101,14 +149,22 @@
   {
     "id": "skal-7",
     "navn": "To-tone skål i to tresorter",
+    "navn_en": "Two-tone bowl in two woods",
     "pris": 950,
     "kategori": "skåler",
     "beskrivelse": "Grunn skål satt sammen av to ulike tresorter – en mørk og en lys halvdel som møtes i et skarpt, grafisk skille. Et moderne blikkfang der håndverket virkelig kommer til sin rett.",
+    "beskrivelse_en": "A shallow bowl made from two different woods – a dark and a light half that meet in a sharp, graphic divide. A modern eye-catcher where the craftsmanship truly shines.",
     "detaljer": [
       "Diameter: ca. 20 cm",
       "Høyde: ca. 6 cm",
       "Materiale: Valnøtt og eik",
       "Behandling: Olje"
+    ],
+    "detaljer_en": [
+      "Diameter: approx. 20 cm",
+      "Height: approx. 6 cm",
+      "Material: Walnut and oak",
+      "Treatment: Oil"
     ],
     "bilde": "/bilder/produkter/skal7.jpg",
     "lagerstatus": "på_lager",
@@ -117,14 +173,22 @@
   {
     "id": "skal-8",
     "navn": "Grunn skål med åremønster",
+    "navn_en": "Shallow bowl with grain pattern",
     "pris": 650,
     "kategori": "skåler",
     "beskrivelse": "Grunn, elegant dreid skål med et vakkert åremønster som samler seg i et «øye» i bunnen. Lyst tre med varme brune toner – tidløs og dekorativ.",
+    "beskrivelse_en": "A shallow, elegant turned bowl with a beautiful grain pattern that gathers into an \"eye\" at the base. Pale wood with warm brown tones – timeless and decorative.",
     "detaljer": [
       "Diameter: ca. 20 cm",
       "Høyde: ca. 7 cm",
       "Materiale: Bjørk",
       "Behandling: Olje"
+    ],
+    "detaljer_en": [
+      "Diameter: approx. 20 cm",
+      "Height: approx. 7 cm",
+      "Material: Birch",
+      "Treatment: Oil"
     ],
     "bilde": "/bilder/produkter/skal8.jpg",
     "lagerstatus": "på_lager",
@@ -133,14 +197,22 @@
   {
     "id": "skal-9",
     "navn": "Flat skål i ask",
+    "navn_en": "Flat ash bowl",
     "pris": 650,
     "kategori": "skåler",
     "beskrivelse": "Lav, vid skål med tydelig, bølgende flammeåring i lyst ask. Den grunne formen gjør den perfekt som fruktfat eller dekorativ skål på bordet.",
+    "beskrivelse_en": "A low, wide bowl with distinct, undulating flame grain in pale ash. The shallow shape makes it perfect as a fruit dish or a decorative bowl on the table.",
     "detaljer": [
       "Diameter: ca. 22 cm",
       "Høyde: ca. 6 cm",
       "Materiale: Ask",
       "Behandling: Olje"
+    ],
+    "detaljer_en": [
+      "Diameter: approx. 22 cm",
+      "Height: approx. 6 cm",
+      "Material: Ash",
+      "Treatment: Oil"
     ],
     "bilde": "/bilder/produkter/skal9.jpg",
     "bilder": [
@@ -152,14 +224,22 @@
   {
     "id": "skal-10",
     "navn": "Rustikk skål med rille",
+    "navn_en": "Rustic bowl with groove",
     "pris": 650,
     "kategori": "skåler",
     "beskrivelse": "Vid, grunn skål med en markert dreid rille rundt sidene og tydelig, levende åring. Matt, naturlig finish gir et rått og rustikt uttrykk.",
+    "beskrivelse_en": "A wide, shallow bowl with a pronounced turned groove around the sides and distinct, lively grain. A matte, natural finish gives it a raw and rustic look.",
     "detaljer": [
       "Diameter: ca. 24 cm",
       "Høyde: ca. 7 cm",
       "Materiale: Ask",
       "Behandling: Ubehandlet"
+    ],
+    "detaljer_en": [
+      "Diameter: approx. 24 cm",
+      "Height: approx. 7 cm",
+      "Material: Ash",
+      "Treatment: Untreated"
     ],
     "bilde": "/bilder/produkter/skal10.jpg",
     "lagerstatus": "på_lager",
@@ -168,14 +248,22 @@
   {
     "id": "skal-11",
     "navn": "Bred skål med kontrastrille",
+    "navn_en": "Wide bowl with contrast groove",
     "pris": 700,
     "kategori": "skåler",
     "beskrivelse": "Bred skål i trommelform med kraftig krage og en mørk kontrastrille rundt livet. Det lyse treet har diskré spalting og knaster som gir liv til overflaten.",
+    "beskrivelse_en": "A wide drum-shaped bowl with a robust collar and a dark contrast groove around the middle. The pale wood has subtle spalting and knots that bring the surface to life.",
     "detaljer": [
       "Diameter: ca. 22 cm",
       "Høyde: ca. 12 cm",
       "Materiale: Bjørk",
       "Behandling: Ubehandlet"
+    ],
+    "detaljer_en": [
+      "Diameter: approx. 22 cm",
+      "Height: approx. 12 cm",
+      "Material: Birch",
+      "Treatment: Untreated"
     ],
     "bilde": "/bilder/produkter/skal11.jpg",
     "bilder": [
@@ -187,14 +275,22 @@
   {
     "id": "skal-12",
     "navn": "Spettet skål i tønneform",
+    "navn_en": "Spalted barrel-shaped bowl",
     "pris": 750,
     "kategori": "skåler",
     "beskrivelse": "Dreid skål i tønneform med dramatisk spalting – mørke linjer og naturlige sprekker forteller treets historie. Matt, naturlig finish forsterker det rustikke preget.",
+    "beskrivelse_en": "A turned barrel-shaped bowl with dramatic spalting – dark lines and natural cracks tell the story of the wood. A matte, natural finish reinforces the rustic character.",
     "detaljer": [
       "Diameter: ca. 18 cm",
       "Høyde: ca. 12 cm",
       "Materiale: Spettet bjørk",
       "Behandling: Ubehandlet"
+    ],
+    "detaljer_en": [
+      "Diameter: approx. 18 cm",
+      "Height: approx. 12 cm",
+      "Material: Spalted birch",
+      "Treatment: Untreated"
     ],
     "bilde": "/bilder/produkter/skal12.jpg",
     "lagerstatus": "på_lager",
@@ -203,14 +299,22 @@
   {
     "id": "skal-13",
     "navn": "Lav skål med doble riller",
+    "navn_en": "Low bowl with double grooves",
     "pris": 650,
     "kategori": "skåler",
     "beskrivelse": "Lav, symmetrisk skål med to fine kontrastriller rundt sidene. Det lyse treet har en varm, rosaskjær tone – rolig og elegant.",
+    "beskrivelse_en": "A low, symmetrical bowl with two fine contrast grooves around the sides. The pale wood has a warm, pinkish tone – calm and elegant.",
     "detaljer": [
       "Diameter: ca. 20 cm",
       "Høyde: ca. 9 cm",
       "Materiale: Kirsebær",
       "Behandling: Olje"
+    ],
+    "detaljer_en": [
+      "Diameter: approx. 20 cm",
+      "Height: approx. 9 cm",
+      "Material: Cherry",
+      "Treatment: Oil"
     ],
     "bilde": "/bilder/produkter/skal13.jpg",
     "lagerstatus": "på_lager",
@@ -219,14 +323,22 @@
   {
     "id": "skal-14",
     "navn": "Rund skål med riller",
+    "navn_en": "Round bowl with grooves",
     "pris": 600,
     "kategori": "skåler",
     "beskrivelse": "Liten, kuleformet skål med dreide kontrastriller. Lyst tre og en myk, avrundet form gjør den til et koselig lite objekt – fin til småting eller pynt.",
+    "beskrivelse_en": "A small, spherical bowl with turned contrast grooves. Pale wood and a soft, rounded shape make it a charming little object – lovely for small items or decoration.",
     "detaljer": [
       "Diameter: ca. 15 cm",
       "Høyde: ca. 10 cm",
       "Materiale: Bjørk",
       "Behandling: Olje"
+    ],
+    "detaljer_en": [
+      "Diameter: approx. 15 cm",
+      "Height: approx. 10 cm",
+      "Material: Birch",
+      "Treatment: Oil"
     ],
     "bilde": "/bilder/produkter/skal14.jpg",
     "lagerstatus": "på_lager",
@@ -235,14 +347,22 @@
   {
     "id": "skal-15",
     "navn": "Høy spettet potteskål",
+    "navn_en": "Tall spalted pot bowl",
     "pris": 850,
     "kategori": "skåler",
     "beskrivelse": "Høy, potteformet skål med markant spalting – mørke, forgrenede linjer og naturlige sprekker gjør den til et dramatisk blikkfang. Matt finish som lar treet snakke for seg selv.",
+    "beskrivelse_en": "A tall, pot-shaped bowl with striking spalting – dark, branching lines and natural cracks make it a dramatic eye-catcher. A matte finish that lets the wood speak for itself.",
     "detaljer": [
       "Diameter: ca. 18 cm",
       "Høyde: ca. 15 cm",
       "Materiale: Spettet bjørk",
       "Behandling: Ubehandlet"
+    ],
+    "detaljer_en": [
+      "Diameter: approx. 18 cm",
+      "Height: approx. 15 cm",
+      "Material: Spalted birch",
+      "Treatment: Untreated"
     ],
     "bilde": "/bilder/produkter/skal15.jpg",
     "bilder": [
@@ -254,14 +374,22 @@
   {
     "id": "krukke-1",
     "navn": "Dreid krukke med lokk, pæreform",
+    "navn_en": "Turned lidded jar, pear shape",
     "pris": 500,
     "kategori": "krukker",
     "beskrivelse": "Elegant dreid krukke med tettsittende lokk og dreid knott. Den myke pæreformen og de fine kontrastlinjene gjør den til et dekorativt oppbevaringssted for smått og stort.",
+    "beskrivelse_en": "An elegant turned jar with a snug-fitting lid and turned knob. The soft pear shape and fine contrast lines make it decorative storage for things large and small.",
     "detaljer": [
       "Høyde: ca. 15 cm",
       "Diameter: ca. 10 cm",
       "Materiale: Bjørk",
       "Behandling: Olje"
+    ],
+    "detaljer_en": [
+      "Height: approx. 15 cm",
+      "Diameter: approx. 10 cm",
+      "Material: Birch",
+      "Treatment: Oil"
     ],
     "bilde": "/bilder/produkter/krukke1.jpg",
     "lagerstatus": "på_lager",
@@ -270,14 +398,22 @@
   {
     "id": "krukke-2",
     "navn": "Dreid krukke med lokk, lav",
+    "navn_en": "Turned lidded jar, low",
     "pris": 450,
     "kategori": "krukker",
     "beskrivelse": "Lav, sopplignende krukke med tettsittende lokk og flat knott. Varmt honningfarget tre med fine kontrastringer mot foten.",
+    "beskrivelse_en": "A low, mushroom-like jar with a snug-fitting lid and flat knob. Warm honey-coloured wood with fine contrast rings towards the foot.",
     "detaljer": [
       "Høyde: ca. 12 cm",
       "Diameter: ca. 11 cm",
       "Materiale: Bjørk",
       "Behandling: Olje"
+    ],
+    "detaljer_en": [
+      "Height: approx. 12 cm",
+      "Diameter: approx. 11 cm",
+      "Material: Birch",
+      "Treatment: Oil"
     ],
     "bilde": "/bilder/produkter/krukke2.jpg",
     "lagerstatus": "på_lager",
@@ -286,14 +422,22 @@
   {
     "id": "krukke-3",
     "navn": "Sylindrisk krukke med lokk",
+    "navn_en": "Cylindrical lidded jar",
     "pris": 450,
     "kategori": "krukker",
     "beskrivelse": "Sylindrisk dreid krukke med lokk og spiss knott. Rene dreide riller og lyst tre gir et stramt, klassisk uttrykk – fin til te, krydder eller småting.",
+    "beskrivelse_en": "A cylindrical turned jar with a lid and pointed knob. Clean turned grooves and pale wood give it a crisp, classic look – lovely for tea, spices or small items.",
     "detaljer": [
       "Høyde: ca. 14 cm",
       "Diameter: ca. 10 cm",
       "Materiale: Bjørk",
       "Behandling: Olje"
+    ],
+    "detaljer_en": [
+      "Height: approx. 14 cm",
+      "Diameter: approx. 10 cm",
+      "Material: Birch",
+      "Treatment: Oil"
     ],
     "bilde": "/bilder/produkter/krukke3.jpg",
     "lagerstatus": "på_lager",
@@ -302,14 +446,22 @@
   {
     "id": "krukke-4",
     "navn": "Dreid krukke med lokk, honning",
+    "navn_en": "Turned lidded jar, honey",
     "pris": 450,
     "kategori": "krukker",
     "beskrivelse": "Kompakt dreid krukke med lokk og dreid knott. Varmt honningfarget tre med kontrastringer – tidløs og dekorativ.",
+    "beskrivelse_en": "A compact turned jar with a lid and turned knob. Warm honey-coloured wood with contrast rings – timeless and decorative.",
     "detaljer": [
       "Høyde: ca. 12 cm",
       "Diameter: ca. 10 cm",
       "Materiale: Bjørk",
       "Behandling: Olje"
+    ],
+    "detaljer_en": [
+      "Height: approx. 12 cm",
+      "Diameter: approx. 10 cm",
+      "Material: Birch",
+      "Treatment: Oil"
     ],
     "bilde": "/bilder/produkter/krukke4.jpg",
     "lagerstatus": "på_lager",
@@ -318,14 +470,22 @@
   {
     "id": "krukke-5",
     "navn": "Dreid krukke i urneform",
+    "navn_en": "Turned urn-shaped jar",
     "pris": 450,
     "kategori": "krukker",
     "beskrivelse": "Dreid krukke i urneform med slank knott og fine kontrastlinjer. Lyst tre med rolig åring.",
+    "beskrivelse_en": "A turned urn-shaped jar with a slim knob and fine contrast lines. Pale wood with calm grain.",
     "detaljer": [
       "Høyde: ca. 15 cm",
       "Diameter: ca. 10 cm",
       "Materiale: Bjørk",
       "Behandling: Olje"
+    ],
+    "detaljer_en": [
+      "Height: approx. 15 cm",
+      "Diameter: approx. 10 cm",
+      "Material: Birch",
+      "Treatment: Oil"
     ],
     "bilde": "/bilder/produkter/krukke5.jpg",
     "lagerstatus": "på_lager",
@@ -334,14 +494,22 @@
   {
     "id": "krukke-6",
     "navn": "Dreid krukke med flammeåring",
+    "navn_en": "Turned jar with flame grain",
     "pris": 550,
     "kategori": "krukker",
     "beskrivelse": "Tønneformet krukke med lokk og markerte dreide ringer. Det lyse treet har vakker rødlig flammeåring som gjør hver krukke unik.",
+    "beskrivelse_en": "A barrel-shaped jar with a lid and pronounced turned rings. The pale wood has beautiful reddish flame grain that makes each jar unique.",
     "detaljer": [
       "Høyde: ca. 13 cm",
       "Diameter: ca. 12 cm",
       "Materiale: Furu",
       "Behandling: Olje"
+    ],
+    "detaljer_en": [
+      "Height: approx. 13 cm",
+      "Diameter: approx. 12 cm",
+      "Material: Pine",
+      "Treatment: Oil"
     ],
     "bilde": "/bilder/produkter/krukke6.jpg",
     "lagerstatus": "på_lager",
@@ -350,14 +518,22 @@
   {
     "id": "krukke-7",
     "navn": "Dreid krukke med lærreim",
+    "navn_en": "Turned jar with leather strap",
     "pris": 600,
     "kategori": "krukker",
     "beskrivelse": "Dreid krukke med lokk og en dekorativ lærreim rundt livet – et rustikt og røft detaljvalg som skiller den ut. Praktisk til oppbevaring og fin som pynt.",
+    "beskrivelse_en": "A turned jar with a lid and a decorative leather strap around the middle – a rustic, rugged detail that sets it apart. Practical for storage and lovely as decoration.",
     "detaljer": [
       "Høyde: ca. 13 cm",
       "Diameter: ca. 12 cm",
       "Materiale: Norsk tre og skinn",
       "Behandling: Olje"
+    ],
+    "detaljer_en": [
+      "Height: approx. 13 cm",
+      "Diameter: approx. 12 cm",
+      "Material: Norwegian wood and leather",
+      "Treatment: Oil"
     ],
     "bilde": "/bilder/produkter/krukke7.jpg",
     "lagerstatus": "på_lager",
@@ -366,14 +542,22 @@
   {
     "id": "krukke-8",
     "navn": "Dreid krukke med høy knott",
+    "navn_en": "Turned jar with tall knob",
     "pris": 500,
     "kategori": "krukker",
     "beskrivelse": "Dreid krukke med lokk og en høy, elegant dreid knott. Lyst tre med kontrastring og blank overflate.",
+    "beskrivelse_en": "A turned jar with a lid and a tall, elegant turned knob. Pale wood with a contrast ring and a glossy surface.",
     "detaljer": [
       "Høyde: ca. 15 cm",
       "Diameter: ca. 11 cm",
       "Materiale: Bjørk",
       "Behandling: Olje"
+    ],
+    "detaljer_en": [
+      "Height: approx. 15 cm",
+      "Diameter: approx. 11 cm",
+      "Material: Birch",
+      "Treatment: Oil"
     ],
     "bilde": "/bilder/produkter/krukke8.jpg",
     "bilder": [
@@ -385,14 +569,22 @@
   {
     "id": "krukke-9",
     "navn": "Rund krukke med lokk",
+    "navn_en": "Round jar with lid",
     "pris": 500,
     "kategori": "krukker",
     "beskrivelse": "Rund, kuleformet krukke med lokk og høy dreid knott. Myk form og lyst tre – like fin åpen som lukket.",
+    "beskrivelse_en": "A round, spherical jar with a lid and a tall turned knob. A soft shape and pale wood – just as lovely open as closed.",
     "detaljer": [
       "Høyde: ca. 15 cm",
       "Diameter: ca. 12 cm",
       "Materiale: Bjørk",
       "Behandling: Olje"
+    ],
+    "detaljer_en": [
+      "Height: approx. 15 cm",
+      "Diameter: approx. 12 cm",
+      "Material: Birch",
+      "Treatment: Oil"
     ],
     "bilde": "/bilder/produkter/krukke9.jpg",
     "bilder": [
@@ -404,14 +596,22 @@
   {
     "id": "krukke-10",
     "navn": "Rund krukke med sort lokk",
+    "navn_en": "Round jar with black lid",
     "pris": 600,
     "kategori": "krukker",
     "beskrivelse": "Rund krukke i lyst tre med et dramatisk sortbeiset lokk og høy, spiss knott. Kontrasten mellom det lyse treet og det sorte lokket gir et moderne, elegant uttrykk.",
+    "beskrivelse_en": "A round jar in pale wood with a dramatic black-stained lid and a tall, pointed knob. The contrast between the pale wood and the black lid gives a modern, elegant look.",
     "detaljer": [
       "Høyde: ca. 16 cm",
       "Diameter: ca. 12 cm",
       "Materiale: Bjørk",
       "Behandling: Olje, sortbeiset lokk"
+    ],
+    "detaljer_en": [
+      "Height: approx. 16 cm",
+      "Diameter: approx. 12 cm",
+      "Material: Birch",
+      "Treatment: Oil, black-stained lid"
     ],
     "bilde": "/bilder/produkter/krukke10.jpg",
     "lagerstatus": "på_lager",
@@ -420,14 +620,22 @@
   {
     "id": "krukke-11",
     "navn": "Lav krukke med sort lokk",
+    "navn_en": "Low jar with black lid",
     "pris": 600,
     "kategori": "krukker",
     "beskrivelse": "Lav, bred krukke med blankt sort lokk og sort knott mot lyst tre. Et stilrent blikkfang med tydelig kontrast.",
+    "beskrivelse_en": "A low, wide jar with a glossy black lid and black knob against pale wood. A sleek eye-catcher with striking contrast.",
     "detaljer": [
       "Høyde: ca. 12 cm",
       "Diameter: ca. 15 cm",
       "Materiale: Bjørk",
       "Behandling: Olje, sortbeiset lokk"
+    ],
+    "detaljer_en": [
+      "Height: approx. 12 cm",
+      "Diameter: approx. 15 cm",
+      "Material: Birch",
+      "Treatment: Oil, black-stained lid"
     ],
     "bilde": "/bilder/produkter/krukke11.jpg",
     "lagerstatus": "på_lager",
@@ -436,14 +644,22 @@
   {
     "id": "krukke-12",
     "navn": "Ingefærkrukke med sort lokk",
+    "navn_en": "Ginger jar with black lid",
     "pris": 650,
     "kategori": "krukker",
     "beskrivelse": "Høy, elegant krukke i ingefærkrukke-stil med lyst tre og sort lokk med slank, spiss knott. Et dekorativt stykke som står fint alene eller i gruppe.",
+    "beskrivelse_en": "A tall, elegant jar in ginger-jar style with pale wood and a black lid topped by a slim, pointed knob. A decorative piece that stands beautifully alone or in a group.",
     "detaljer": [
       "Høyde: ca. 20 cm",
       "Diameter: ca. 13 cm",
       "Materiale: Bjørk",
       "Behandling: Olje, sortbeiset lokk"
+    ],
+    "detaljer_en": [
+      "Height: approx. 20 cm",
+      "Diameter: approx. 13 cm",
+      "Material: Birch",
+      "Treatment: Oil, black-stained lid"
     ],
     "bilde": "/bilder/produkter/krukke12.jpg",
     "lagerstatus": "på_lager",
@@ -452,14 +668,22 @@
   {
     "id": "lysestaker-1",
     "navn": "Lysestaker i kubbeform, sett av 3",
+    "navn_en": "Block-shaped candle holders, set of 3",
     "pris": 750,
     "kategori": "lysestaker",
     "beskrivelse": "Sett med tre dreide lysestaker i ulik høyde, med markerte riller. For vanlige kronelys – fine samlet i gruppe for et levende lysbilde.",
+    "beskrivelse_en": "A set of three turned candle holders in varying heights, with pronounced grooves. For standard taper candles – lovely grouped together for a lively display of light.",
     "detaljer": [
       "Høyder: ca. 10 / 13 / 16 cm",
       "Hulldiameter: ca. 2,2 cm",
       "Materiale: Bjørk",
       "Behandling: Olje"
+    ],
+    "detaljer_en": [
+      "Heights: approx. 10 / 13 / 16 cm",
+      "Hole diameter: approx. 2.2 cm",
+      "Material: Birch",
+      "Treatment: Oil"
     ],
     "bilde": "/bilder/produkter/lysestaker1.jpg",
     "lagerstatus": "på_lager",
@@ -468,14 +692,22 @@
   {
     "id": "lysestaker-2",
     "navn": "Lysestaker i timeglassform, sett av 3",
+    "navn_en": "Hourglass candle holders, set of 3",
     "pris": 750,
     "kategori": "lysestaker",
     "beskrivelse": "Tre dreide lysestaker i myk timeglassform, i naturlig lyst tre. Enkle og skandinaviske – for kronelys.",
+    "beskrivelse_en": "Three turned candle holders in a soft hourglass shape, in naturally pale wood. Simple and Scandinavian – for taper candles.",
     "detaljer": [
       "Høyde: ca. 8–10 cm",
       "Hulldiameter: ca. 2,2 cm",
       "Materiale: Bjørk",
       "Behandling: Ubehandlet"
+    ],
+    "detaljer_en": [
+      "Height: approx. 8–10 cm",
+      "Hole diameter: approx. 2.2 cm",
+      "Material: Birch",
+      "Treatment: Untreated"
     ],
     "bilde": "/bilder/produkter/lysestaker2.jpg",
     "lagerstatus": "på_lager",
@@ -484,14 +716,22 @@
   {
     "id": "lysestaker-3",
     "navn": "Høy dreid lysestake",
+    "navn_en": "Tall turned candle holder",
     "pris": 450,
     "kategori": "lysestaker",
     "beskrivelse": "Klassisk, høy dreid lysestake med elegant profil og bred, stødig fot. For kronelys – tidløs alene eller i par.",
+    "beskrivelse_en": "A classic, tall turned candle holder with an elegant profile and a wide, stable foot. For taper candles – timeless alone or in a pair.",
     "detaljer": [
       "Høyde: ca. 22 cm",
       "Hulldiameter: ca. 2,2 cm",
       "Materiale: Bjørk",
       "Behandling: Olje"
+    ],
+    "detaljer_en": [
+      "Height: approx. 22 cm",
+      "Hole diameter: approx. 2.2 cm",
+      "Material: Birch",
+      "Treatment: Oil"
     ],
     "bilde": "/bilder/produkter/lysestaker3.jpg",
     "lagerstatus": "på_lager",
@@ -500,14 +740,22 @@
   {
     "id": "lysestaker-4",
     "navn": "Telysholdere, sett av 2",
+    "navn_en": "Tealight holders, set of 2",
     "pris": 400,
     "kategori": "lysestaker",
     "beskrivelse": "To dreide telysholdere i myk timeglassform. Passer standard telys – koselige på bordet året rundt.",
+    "beskrivelse_en": "Two turned tealight holders in a soft hourglass shape. Fit standard tealights – cosy on the table all year round.",
     "detaljer": [
       "Høyde: ca. 7 cm",
       "Passer: standard telys",
       "Materiale: Bjørk",
       "Behandling: Olje"
+    ],
+    "detaljer_en": [
+      "Height: approx. 7 cm",
+      "Fits: standard tealights",
+      "Material: Birch",
+      "Treatment: Oil"
     ],
     "bilde": "/bilder/produkter/lysestaker4.jpg",
     "lagerstatus": "på_lager",
@@ -516,14 +764,22 @@
   {
     "id": "lysestaker-5",
     "navn": "Telysholder i timeglassform",
+    "navn_en": "Hourglass tealight holder",
     "pris": 250,
     "kategori": "lysestaker",
     "beskrivelse": "Enkel dreid telysholder i timeglassform, i varmt lyst tre. Passer standard telys.",
+    "beskrivelse_en": "A simple turned tealight holder in an hourglass shape, in warm pale wood. Fits standard tealights.",
     "detaljer": [
       "Høyde: ca. 8 cm",
       "Passer: standard telys",
       "Materiale: Bjørk",
       "Behandling: Olje"
+    ],
+    "detaljer_en": [
+      "Height: approx. 8 cm",
+      "Fits: standard tealights",
+      "Material: Birch",
+      "Treatment: Oil"
     ],
     "bilde": "/bilder/produkter/lysestaker5.jpg",
     "lagerstatus": "på_lager",
@@ -532,14 +788,22 @@
   {
     "id": "lysestaker-6",
     "navn": "Spiral-lysestaker, sett av 2",
+    "navn_en": "Spiral candle holders, set of 2",
     "pris": 850,
     "kategori": "lysestaker",
     "beskrivelse": "Et par høye lysestaker dreid med markert spiral-/skrueprofil. Et moderne og skulpturelt blikkfang for kronelys.",
+    "beskrivelse_en": "A pair of tall candle holders turned with a pronounced spiral/screw profile. A modern and sculptural eye-catcher for taper candles.",
     "detaljer": [
       "Høyde: ca. 20 cm",
       "Hulldiameter: ca. 2,2 cm",
       "Materiale: Bjørk",
       "Behandling: Ubehandlet"
+    ],
+    "detaljer_en": [
+      "Height: approx. 20 cm",
+      "Hole diameter: approx. 2.2 cm",
+      "Material: Birch",
+      "Treatment: Untreated"
     ],
     "bilde": "/bilder/produkter/lysestaker6.jpg",
     "lagerstatus": "på_lager",
@@ -548,14 +812,22 @@
   {
     "id": "lysestaker-7",
     "navn": "Telysholdere med naturkant, sett av 2",
+    "navn_en": "Natural-edge tealight holders, set of 2",
     "pris": 450,
     "kategori": "lysestaker",
     "beskrivelse": "To dreide telysholdere der den ene har en bevart naturkant med bark. Rustikk sjarm – passer standard telys.",
+    "beskrivelse_en": "Two turned tealight holders, one with a preserved natural edge and bark. Rustic charm – fit standard tealights.",
     "detaljer": [
       "Høyde: ca. 7 cm",
       "Passer: standard telys",
       "Materiale: Norsk løvtre",
       "Behandling: Olje"
+    ],
+    "detaljer_en": [
+      "Height: approx. 7 cm",
+      "Fits: standard tealights",
+      "Material: Norwegian hardwood",
+      "Treatment: Oil"
     ],
     "bilde": "/bilder/produkter/lysestaker7.jpg",
     "lagerstatus": "på_lager",
@@ -564,14 +836,22 @@
   {
     "id": "serveringsfat-1",
     "navn": "To-etasjes serveringsfat",
+    "navn_en": "Two-tier serving stand",
     "pris": 850,
     "kategori": "annet",
     "beskrivelse": "To-etasjes dreid serveringsfat med håndtak i midten. To runde fat i avtagende størrelse – flott til kaker, frukt eller bakst, og et dekorativt blikkfang på bordet.",
+    "beskrivelse_en": "A two-tier turned serving stand with a handle in the middle. Two round plates in decreasing size – great for cakes, fruit or pastries, and a decorative eye-catcher on the table.",
     "detaljer": [
       "Høyde: ca. 30 cm",
       "Diameter nederst: ca. 28 cm",
       "Materiale: Bjørk",
       "Behandling: Olje"
+    ],
+    "detaljer_en": [
+      "Height: approx. 30 cm",
+      "Bottom diameter: approx. 28 cm",
+      "Material: Birch",
+      "Treatment: Oil"
     ],
     "bilde": "/bilder/produkter/2-etasjers-serveringsfat.jpg",
     "lagerstatus": "på_lager",
@@ -580,14 +860,22 @@
   {
     "id": "eggeglass-1",
     "navn": "Eggeglass-sett på snurrebrett",
+    "navn_en": "Egg cup set on a lazy Susan",
     "pris": 700,
     "kategori": "annet",
     "beskrivelse": "Sett med seks dreide eggeglass på et roterende snurrebrett med håndtak i midten. Praktisk og dekorativt til frokostbordet – snurr rundt og forsyn deg.",
+    "beskrivelse_en": "A set of six turned egg cups on a rotating lazy Susan with a handle in the middle. Practical and decorative for the breakfast table – spin it round and help yourself.",
     "detaljer": [
       "6 eggeglass + snurrebrett",
       "Høyde: ca. 15 cm",
       "Materiale: Bjørk",
       "Behandling: Olje"
+    ],
+    "detaljer_en": [
+      "6 egg cups + lazy Susan",
+      "Height: approx. 15 cm",
+      "Material: Birch",
+      "Treatment: Oil"
     ],
     "bilde": "/bilder/produkter/eggeglass1.jpg",
     "lagerstatus": "på_lager",
@@ -596,13 +884,20 @@
   {
     "id": "skjaerefjol-1",
     "navn": "Serveringsfjøl med tauhåndtak",
+    "navn_en": "Serving board with rope handles",
     "pris": 650,
     "kategori": "serveringsfjøl",
     "beskrivelse": "Avlangt serveringsbrett med utskåret bølgekant og tauhåndtak i hver ende. Mørkbeiset tre – flott til servering av ost, tapas eller snacks.",
+    "beskrivelse_en": "An elongated serving board with a carved wavy edge and rope handles at each end. Dark-stained wood – great for serving cheese, tapas or snacks.",
     "detaljer": [
       "Mål: ca. 55 × 18 cm",
       "Materiale: Furu",
       "Behandling: Beiset og oljet"
+    ],
+    "detaljer_en": [
+      "Dimensions: approx. 55 × 18 cm",
+      "Material: Pine",
+      "Treatment: Stained and oiled"
     ],
     "bilde": "/bilder/produkter/skjaerefjol1.jpg",
     "lagerstatus": "på_lager",
@@ -611,13 +906,20 @@
   {
     "id": "torkerullholder-1",
     "navn": "Tørkerullholder",
+    "navn_en": "Paper towel holder",
     "pris": 500,
     "kategori": "annet",
     "beskrivelse": "Dreid tørkerullholder med stødig, bred fot og elegant profil. Passer standard kjøkkenruller – funksjonell og pen på benken.",
+    "beskrivelse_en": "A turned paper towel holder with a stable, wide base and an elegant profile. Fits standard kitchen rolls – functional and handsome on the counter.",
     "detaljer": [
       "Høyde: ca. 32 cm",
       "Materiale: Bjørk",
       "Behandling: Olje"
+    ],
+    "detaljer_en": [
+      "Height: approx. 32 cm",
+      "Material: Birch",
+      "Treatment: Oil"
     ],
     "bilde": "/bilder/produkter/torkerullholder1.jpg",
     "bilder": [
@@ -629,13 +931,20 @@
   {
     "id": "skjaerefjol-2",
     "navn": "Serveringsfjøl med metallhåndtak",
+    "navn_en": "Serving board with metal handles",
     "pris": 650,
     "kategori": "serveringsfjøl",
     "beskrivelse": "Serveringsbrett med organisk bølgekant og sorte metallhåndtak. Gråbeiset tre gir et moderne, landlig uttrykk – like fint som anretningsbrett som til pynt.",
+    "beskrivelse_en": "A serving board with an organic wavy edge and black metal handles. Grey-stained wood gives a modern, rustic look – just as lovely as a serving tray as it is for display.",
     "detaljer": [
       "Mål: ca. 55 × 20 cm",
       "Materiale: Furu",
       "Behandling: Beiset"
+    ],
+    "detaljer_en": [
+      "Dimensions: approx. 55 × 20 cm",
+      "Material: Pine",
+      "Treatment: Stained"
     ],
     "bilde": "/bilder/produkter/skjaerefjol2.jpg",
     "lagerstatus": "på_lager",
@@ -644,13 +953,20 @@
   {
     "id": "fugl-1",
     "navn": "Dreid sel",
+    "navn_en": "Turned seal",
     "pris": 550,
     "kategori": "figurer",
     "beskrivelse": "Håndformet sel med værhår og et vennlig uttrykk. Et sjarmerende lite kunstverk i tre som passer i vinduskarmen eller på hylla.",
+    "beskrivelse_en": "A hand-shaped seal with whiskers and a friendly expression. A charming little wooden work of art that suits the windowsill or the shelf.",
     "detaljer": [
       "Lengde: ca. 18 cm",
       "Materiale: Bjørk",
       "Behandling: Olje"
+    ],
+    "detaljer_en": [
+      "Length: approx. 18 cm",
+      "Material: Birch",
+      "Treatment: Oil"
     ],
     "bilde": "/bilder/produkter/fugl1.jpg",
     "lagerstatus": "på_lager",
@@ -659,13 +975,20 @@
   {
     "id": "tre-1",
     "navn": "Dekortrær, sett av 3",
+    "navn_en": "Decorative trees, set of 3",
     "pris": 600,
     "kategori": "figurer",
     "beskrivelse": "Sett med tre dreide dekortrær i ulik høyde, formet som stiliserte grantrær. Vakkert spettet tre – fint som pynt året rundt, men ekstra stemningsfullt i juletiden.",
+    "beskrivelse_en": "A set of three turned decorative trees in varying heights, shaped as stylised spruces. Beautifully spalted wood – lovely as decoration all year, but especially atmospheric at Christmas.",
     "detaljer": [
       "Høyder: ca. 15 / 22 / 28 cm",
       "Materiale: Spettet bjørk",
       "Behandling: Ubehandlet"
+    ],
+    "detaljer_en": [
+      "Heights: approx. 15 / 22 / 28 cm",
+      "Material: Spalted birch",
+      "Treatment: Untreated"
     ],
     "bilde": "/bilder/produkter/tre1.jpg",
     "lagerstatus": "på_lager",
@@ -674,13 +997,20 @@
   {
     "id": "fugl-2",
     "navn": "Dreid fugl",
+    "navn_en": "Turned bird",
     "pris": 500,
     "kategori": "figurer",
     "beskrivelse": "Håndformet fugl med lang, spiss nebb og rund kropp. Enkle former som fanger fuglens karakter – et dekorativt objekt til bord eller hylle.",
+    "beskrivelse_en": "A hand-shaped bird with a long, pointed beak and a round body. Simple forms that capture the bird's character – a decorative object for the table or shelf.",
     "detaljer": [
       "Lengde: ca. 18 cm",
       "Materiale: Bjørk",
       "Behandling: Olje"
+    ],
+    "detaljer_en": [
+      "Length: approx. 18 cm",
+      "Material: Birch",
+      "Treatment: Oil"
     ],
     "bilde": "/bilder/produkter/fugl2.jpg",
     "lagerstatus": "på_lager",
@@ -689,13 +1019,20 @@
   {
     "id": "tre-2",
     "navn": "Dekortrær i bjørk, sett av 3",
+    "navn_en": "Birch decorative trees, set of 3",
     "pris": 600,
     "kategori": "figurer",
     "beskrivelse": "Tre dreide dekortrær i lyst bjørk, i ulik høyde. Stiliserte grantrær som skaper et rolig, nordisk uttrykk – fine i gruppe.",
+    "beskrivelse_en": "Three turned decorative trees in pale birch, in varying heights. Stylised spruces that create a calm, Nordic look – lovely in a group.",
     "detaljer": [
       "Høyder: ca. 15 / 22 / 28 cm",
       "Materiale: Bjørk",
       "Behandling: Ubehandlet"
+    ],
+    "detaljer_en": [
+      "Heights: approx. 15 / 22 / 28 cm",
+      "Material: Birch",
+      "Treatment: Untreated"
     ],
     "bilde": "/bilder/produkter/tre2.jpg",
     "lagerstatus": "på_lager",
@@ -704,13 +1041,20 @@
   {
     "id": "fugl-3",
     "navn": "Dreid fugl på sokkel",
+    "navn_en": "Turned bird on a base",
     "pris": 500,
     "kategori": "figurer",
     "beskrivelse": "Fugl med lang nebb som bøyer seg nedover, montert på en rund sokkel. Karakterfull og leken – et blikkfang med personlighet.",
+    "beskrivelse_en": "A bird with a long beak curving downward, mounted on a round base. Full of character and playful – an eye-catcher with personality.",
     "detaljer": [
       "Høyde: ca. 12 cm",
       "Materiale: Bjørk",
       "Behandling: Olje"
+    ],
+    "detaljer_en": [
+      "Height: approx. 12 cm",
+      "Material: Birch",
+      "Treatment: Oil"
     ],
     "bilde": "/bilder/produkter/fugl3.jpg",
     "lagerstatus": "på_lager",
@@ -719,13 +1063,20 @@
   {
     "id": "fugl-4",
     "navn": "Dreid sel, liten",
+    "navn_en": "Turned seal, small",
     "pris": 550,
     "kategori": "figurer",
     "beskrivelse": "Liten håndformet sel med værhår og bløte former. Et koselig lite kunstverk i lyst tre.",
+    "beskrivelse_en": "A small hand-shaped seal with whiskers and soft forms. A cosy little work of art in pale wood.",
     "detaljer": [
       "Lengde: ca. 15 cm",
       "Materiale: Bjørk",
       "Behandling: Olje"
+    ],
+    "detaljer_en": [
+      "Length: approx. 15 cm",
+      "Material: Birch",
+      "Treatment: Oil"
     ],
     "bilde": "/bilder/produkter/fugl4.jpg",
     "bilder": [
@@ -737,13 +1088,20 @@
   {
     "id": "fugl-5",
     "navn": "Dreid fugl i spettet tre",
+    "navn_en": "Turned bird in spalted wood",
     "pris": 550,
     "kategori": "figurer",
     "beskrivelse": "Fugl med lang, spiss nebb formet i vakkert spettet tre. De mørke årene gir figuren liv og gjør den helt unik.",
+    "beskrivelse_en": "A bird with a long, pointed beak shaped from beautifully spalted wood. The dark veins bring the figure to life and make it completely unique.",
     "detaljer": [
       "Lengde: ca. 18 cm",
       "Materiale: Spettet bjørk",
       "Behandling: Olje"
+    ],
+    "detaljer_en": [
+      "Length: approx. 18 cm",
+      "Material: Spalted birch",
+      "Treatment: Oil"
     ],
     "bilde": "/bilder/produkter/fugl5.jpg",
     "lagerstatus": "på_lager",
@@ -752,13 +1110,20 @@
   {
     "id": "fugl-6",
     "navn": "Fuglepar",
+    "navn_en": "Pair of birds",
     "pris": 750,
     "kategori": "figurer",
     "beskrivelse": "To håndformede fugler med lange nebb – et lekent par som står fint sammen. Ingen er like.",
+    "beskrivelse_en": "Two hand-shaped birds with long beaks – a playful pair that stands beautifully together. No two are alike.",
     "detaljer": [
       "Lengde: ca. 16–18 cm",
       "Materiale: Bjørk",
       "Behandling: Olje"
+    ],
+    "detaljer_en": [
+      "Length: approx. 16–18 cm",
+      "Material: Birch",
+      "Treatment: Oil"
     ],
     "bilde": "/bilder/produkter/fugl6.jpg",
     "lagerstatus": "på_lager",
@@ -767,14 +1132,22 @@
   {
     "id": "bord-1",
     "navn": "Live-edge småbord",
+    "navn_en": "Live-edge side table",
     "pris": 1800,
     "kategori": "møbler",
     "beskrivelse": "Lite sidebord med bordplate skåret av en naturlig treskive med bevart barkkant, montert på håndbøyde ben i armeringsjern. Et robust og industrielt-rustikt møbel der hver plate er unik.",
+    "beskrivelse_en": "A small side table with a top cut from a natural wood slice with a preserved bark edge, mounted on hand-bent rebar legs. A robust, industrial-rustic piece where every top is unique.",
     "detaljer": [
       "Mål: ca. 45 × 35 cm",
       "Høyde: ca. 45 cm",
       "Materiale: Norsk tre og armeringsjern",
       "Behandling: Olje"
+    ],
+    "detaljer_en": [
+      "Dimensions: approx. 45 × 35 cm",
+      "Height: approx. 45 cm",
+      "Material: Norwegian wood and rebar",
+      "Treatment: Oil"
     ],
     "bilde": "/bilder/produkter/bord1.jpg",
     "bilder": [
@@ -786,14 +1159,22 @@
   {
     "id": "bord-2",
     "navn": "Live-edge småbord, kløverform",
+    "navn_en": "Live-edge side table, clover shape",
     "pris": 1800,
     "kategori": "møbler",
     "beskrivelse": "Sidebord med organisk, kløverformet bordplate i tre med bevart barkkant og vakker åring, på håndbøyde armeringsjern-ben. Et unikt statement-møbel.",
+    "beskrivelse_en": "A side table with an organic, clover-shaped wooden top with a preserved bark edge and beautiful grain, on hand-bent rebar legs. A unique statement piece.",
     "detaljer": [
       "Mål: ca. 50 × 40 cm",
       "Høyde: ca. 45 cm",
       "Materiale: Norsk tre og armeringsjern",
       "Behandling: Olje"
+    ],
+    "detaljer_en": [
+      "Dimensions: approx. 50 × 40 cm",
+      "Height: approx. 45 cm",
+      "Material: Norwegian wood and rebar",
+      "Treatment: Oil"
     ],
     "bilde": "/bilder/produkter/bord2.jpg",
     "bilder": [

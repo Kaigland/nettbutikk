@@ -3,15 +3,17 @@
 import { useState } from 'react';
 import { Produkt } from '@/types';
 import { useCart } from '@/context/CartContext';
+import { useLanguage } from '@/context/LanguageContext';
 
 export default function AddToCartButton({ produkt }: { produkt: Produkt }) {
   const { leggTil } = useCart();
+  const { t } = useLanguage();
   const [lagtTil, setLagtTil] = useState(false);
 
   if (produkt.lagerstatus === 'utsolgt') {
     return (
       <button disabled className="w-full rounded-xl bg-stone-200 py-4 text-stone-400 font-semibold cursor-not-allowed text-lg">
-        Utsolgt
+        {t.produktkort.utsolgt}
       </button>
     );
   }
@@ -31,7 +33,7 @@ export default function AddToCartButton({ produkt }: { produkt: Produkt }) {
           : 'bg-stone-800 text-white hover:bg-stone-700'
       }`}
     >
-      {lagtTil ? '✓ Lagt i handlekurv' : 'Legg i handlekurv'}
+      {lagtTil ? t.produktDetalj.lagtIKurv : t.produktkort.leggIKurv}
     </button>
   );
 }

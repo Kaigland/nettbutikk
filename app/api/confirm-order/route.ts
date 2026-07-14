@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { sendOrdrebekreftelse, OrdreLinje } from '@/lib/ordre-epost';
+import { Sprak } from '@/lib/i18n';
 
 export const dynamic = 'force-dynamic';
 
@@ -27,6 +28,8 @@ export async function POST(req: NextRequest) {
   const email = session.customer_details?.email;
   const navn = session.customer_details?.name ?? 'Kunde';
   const totalKr = (session.amount_total ?? 0) / 100;
+  // Språket kunden valgte i kassen, satt som `locale` ved opprettelse.
+  const sprak: Sprak = session.locale === 'en' ? 'en' : 'nb';
 
   const linjer: OrdreLinje[] = (session.line_items?.data ?? []).map(
     (item: { description: string; quantity: number; amount_total: number }) => ({
@@ -38,7 +41,7 @@ export async function POST(req: NextRequest) {
 
   if (!email) return NextResponse.json({ ok: true, skipped: 'no email' });
 
-  await sendOrdrebekreftelse({ epost: email, navn, linjer, totalKr, betalingsmetode: 'Kort' });
+  await sendOrdrebekreftelse({ epost: email, navn, linjer, totalKr, betalingsmetode: 'Kort', sprak });
 
   return NextResponse.json({ ok: true });
 }

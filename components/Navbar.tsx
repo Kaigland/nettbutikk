@@ -3,26 +3,32 @@
 import Link from 'next/link';
 import { useState } from 'react';
 import { useCart } from '@/context/CartContext';
+import { useLanguage } from '@/context/LanguageContext';
+import LanguageToggle from '@/components/LanguageToggle';
 
 export default function Navbar() {
   const { antallVarer } = useCart();
+  const { sprak, t } = useLanguage();
   const [menuOpen, setMenuOpen] = useState(false);
+
+  const logo = sprak === 'en' ? '/logo-en.svg' : '/logo.svg';
 
   return (
     <nav className="sticky top-0 z-50 bg-white/95 backdrop-blur border-b border-stone-100">
       <div className="mx-auto max-w-6xl px-6 pt-8 pb-2 flex items-end justify-between">
         <Link href="/">
-          <img src="/logo.svg" alt="Igland Woodcraft" className="h-[70px] w-auto" />
+          <img src={logo} alt="Igland Woodcraft" className="h-[70px] w-auto" />
         </Link>
 
         <div className="hidden md:flex items-center gap-8">
           <Link href="/produkter" className="text-stone-600 hover:text-stone-900 font-medium transition-colors">
-            Produkter
+            {t.nav.produkter}
           </Link>
           <Link href="/om-meg" className="text-stone-600 hover:text-stone-900 font-medium transition-colors">
-            Om meg
+            {t.nav.omMeg}
           </Link>
-          <Link href="/handlekurv" className="relative p-2 rounded-xl hover:bg-stone-50 transition-colors">
+          <LanguageToggle />
+          <Link href="/handlekurv" className="relative p-2 rounded-xl hover:bg-stone-50 transition-colors" aria-label={t.nav.handlekurv}>
             <CartIcon />
             {antallVarer > 0 && (
               <span className="absolute -top-0.5 -right-0.5 bg-tre-600 text-white text-xs w-5 h-5 rounded-full flex items-center justify-center font-bold leading-none">
@@ -33,7 +39,8 @@ export default function Navbar() {
         </div>
 
         <div className="flex md:hidden items-center gap-2">
-          <Link href="/handlekurv" className="relative p-2">
+          <LanguageToggle />
+          <Link href="/handlekurv" className="relative p-2" aria-label={t.nav.handlekurv}>
             <CartIcon />
             {antallVarer > 0 && (
               <span className="absolute -top-0.5 -right-0.5 bg-tre-600 text-white text-xs w-5 h-5 rounded-full flex items-center justify-center font-bold">
@@ -41,7 +48,7 @@ export default function Navbar() {
               </span>
             )}
           </Link>
-          <button onClick={() => setMenuOpen(!menuOpen)} className="p-2" aria-label="Meny">
+          <button onClick={() => setMenuOpen(!menuOpen)} className="p-2" aria-label={t.nav.meny}>
             {menuOpen ? <XIcon /> : <MenuIcon />}
           </button>
         </div>
@@ -50,10 +57,10 @@ export default function Navbar() {
       {menuOpen && (
         <div className="md:hidden border-t border-stone-100 bg-white px-6 py-4 flex flex-col gap-1">
           <Link href="/produkter" onClick={() => setMenuOpen(false)} className="py-3 text-stone-700 font-medium border-b border-stone-50">
-            Produkter
+            {t.nav.produkter}
           </Link>
           <Link href="/om-meg" onClick={() => setMenuOpen(false)} className="py-3 text-stone-700 font-medium">
-            Om meg
+            {t.nav.omMeg}
           </Link>
         </div>
       )}

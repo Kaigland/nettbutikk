@@ -10,10 +10,16 @@ export type Kategori =
 export interface Produkt {
   id: string;
   navn: string;
+  /** Engelsk produktnavn. */
+  navn_en?: string;
   pris: number;
   kategori: Kategori;
   beskrivelse: string;
+  /** Engelsk produktbeskrivelse. */
+  beskrivelse_en?: string;
   detaljer: string[];
+  /** Engelske produktdetaljer. */
+  detaljer_en?: string[];
   bilde: string;
   /** Ekstra bilder til galleri (valgfritt). Hovedbildet er `bilde`. */
   bilder?: string[];

@@ -2,6 +2,7 @@ import { NextRequest, NextResponse } from 'next/server';
 import { KurvVare } from '@/types';
 import { hentVippsBetaling, fangVippsBetaling } from '@/lib/vipps';
 import { sendOrdrebekreftelse, OrdreLinje } from '@/lib/ordre-epost';
+import { Sprak, lokaliserProdukt } from '@/lib/i18n';
 
 export const dynamic = 'force-dynamic';
 
@@ -29,8 +30,9 @@ function formaterAdresse(k: Kunde): string | undefined {
 // manipulert handlekurv-innhold blir avvist før capture.
 export async function POST(req: NextRequest) {
   try {
-    const { reference, varer, kunde }: { reference: string; varer: KurvVare[]; kunde: Kunde } =
+    const { reference, varer, kunde, sprak }: { reference: string; varer: KurvVare[]; kunde: Kunde; sprak?: Sprak } =
       await req.json();
+    const valgtSprak: Sprak = sprak === 'en' ? 'en' : 'nb';
 
     if (!reference) {
       return NextResponse.json({ error: 'Mangler referanse' }, { status: 400 });
@@ -63,7 +65,7 @@ export async function POST(req: NextRequest) {
 
     // Send ordrebekreftelse (feiler stille internt).
     const linjer: OrdreLinje[] = (varer ?? []).map((v) => ({
-      navn: v.produkt.navn,
+      navn: lokaliserProdukt(v.produkt, valgtSprak).navn,
       antall: v.antall,
       sumKr: v.produkt.pris * v.antall,
     }));
@@ -74,6 +76,7 @@ export async function POST(req: NextRequest) {
       totalKr: betaling.autorisertOre / 100,
       betalingsmetode: 'Vipps',
       leveringsadresse: kunde ? formaterAdresse(kunde) : undefined,
+      sprak: valgtSprak,
     });
 
     return NextResponse.json({ status: 'ok' });

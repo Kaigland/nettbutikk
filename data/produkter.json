@@ -614,6 +614,9 @@
       "Treatment: Oil, black-stained lid"
     ],
     "bilde": "/bilder/produkter/krukke10.jpg",
+    "bilder": [
+      "/bilder/produkter/krukke10b.jpg"
+    ],
     "lagerstatus": "på_lager",
     "fremhevet": false
   },
@@ -662,6 +665,9 @@
       "Treatment: Oil, black-stained lid"
     ],
     "bilde": "/bilder/produkter/krukke12.jpg",
+    "bilder": [
+      "/bilder/produkter/krukke12b.jpg"
+    ],
     "lagerstatus": "på_lager",
     "fremhevet": false
   },
@@ -923,7 +929,8 @@
     ],
     "bilde": "/bilder/produkter/torkerullholder1.jpg",
     "bilder": [
-      "/bilder/produkter/torkerullholder1b.jpg"
+      "/bilder/produkter/torkerullholder1b.jpg",
+      "/bilder/produkter/torkerullholder2.jpg"
     ],
     "lagerstatus": "på_lager",
     "fremhevet": false
@@ -947,6 +954,9 @@
       "Treatment: Stained"
     ],
     "bilde": "/bilder/produkter/skjaerefjol2.jpg",
+    "bilder": [
+      "/bilder/produkter/skjaerefjol2b.jpg"
+    ],
     "lagerstatus": "på_lager",
     "fremhevet": false
   },

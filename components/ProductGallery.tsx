@@ -20,7 +20,7 @@ export default function ProductGallery({ bilder, alt }: Props) {
           alt={alt}
           fill
           sizes="(max-width: 1024px) 100vw, 50vw"
-          className="object-cover"
+          className="object-contain p-4"
           priority
         />
       </div>
@@ -45,7 +45,7 @@ export default function ProductGallery({ bilder, alt }: Props) {
                 alt=""
                 fill
                 sizes="120px"
-                className="object-cover"
+                className="object-contain"
               />
             </button>
           ))}

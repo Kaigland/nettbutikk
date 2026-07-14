@@ -929,8 +929,7 @@
     ],
     "bilde": "/bilder/produkter/torkerullholder1.jpg",
     "bilder": [
-      "/bilder/produkter/torkerullholder1b.jpg",
-      "/bilder/produkter/torkerullholder2.jpg"
+      "/bilder/produkter/torkerullholder1b.jpg"      
     ],
     "lagerstatus": "på_lager",
     "fremhevet": false

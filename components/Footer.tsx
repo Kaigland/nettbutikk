@@ -8,7 +8,7 @@ export default function Footer() {
 
   return (
     <footer className="bg-stone-900 text-stone-300 py-14">
-      <div className="mx-auto max-w-6xl px-6 grid gap-10 md:grid-cols-3">
+      <div className="mx-auto max-w-6xl px-6 grid gap-10 md:grid-cols-4">
         <div>
           <h3 className="font-serif text-white text-xl font-bold">Igland Woodcraft</h3>
           <p className="mt-3 text-sm leading-relaxed text-stone-400">
@@ -22,6 +22,15 @@ export default function Footer() {
             <li><Link href="/produkter" className="hover:text-white transition-colors">{t.footer.produkter}</Link></li>
             <li><Link href="/om-meg"    className="hover:text-white transition-colors">{t.footer.omMeg}</Link></li>
             <li><Link href="/handlekurv" className="hover:text-white transition-colors">{t.footer.handlekurv}</Link></li>
+          </ul>
+        </div>
+
+        <div>
+          <h4 className="font-semibold text-white text-sm uppercase tracking-wider">{t.footer.juridisk}</h4>
+          <ul className="mt-4 space-y-2 text-sm">
+            <li><Link href="/salgsbetingelser" className="hover:text-white transition-colors">{t.footer.salgsbetingelser}</Link></li>
+            <li><Link href="/angrerett" className="hover:text-white transition-colors">{t.footer.angrerett}</Link></li>
+            <li><Link href="/personvern" className="hover:text-white transition-colors">{t.footer.personvern}</Link></li>
           </ul>
         </div>
 

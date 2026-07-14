@@ -136,6 +136,10 @@ export const oversettelser = {
       produkter: 'Produkter',
       omMeg: 'Om meg',
       handlekurv: 'Handlekurv',
+      juridisk: 'Vilkår',
+      salgsbetingelser: 'Salgsbetingelser',
+      angrerett: 'Angrerett',
+      personvern: 'Personvern',
       rettigheter: 'Alle rettigheter forbeholdt.',
     },
     handlekurv: {
@@ -280,6 +284,10 @@ export const oversettelser = {
       produkter: 'Products',
       omMeg: 'About',
       handlekurv: 'Cart',
+      juridisk: 'Terms',
+      salgsbetingelser: 'Terms of sale',
+      angrerett: 'Right of withdrawal',
+      personvern: 'Privacy',
       rettigheter: 'All rights reserved.',
     },
     handlekurv: {

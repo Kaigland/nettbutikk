@@ -171,6 +171,13 @@ export const oversettelser = {
       fortsettHandle: 'Fortsett å handle',
       sikkerBetaling:
         'Sikker betaling via Stripe eller Vipps. Kort- og kontoinformasjon lagres ikke hos oss.',
+      vilkar: {
+        pre: 'Ved å fullføre bestillingen godtar du våre ',
+        salgsbetingelser: 'salgsbetingelser',
+        midt: ' og ',
+        angrerett: 'angrerett',
+        post: '. Angreretten gjelder ikke spesialbestilte varer.',
+      },
     },
     suksess: {
       tittel: 'Takk for kjøpet!',
@@ -211,6 +218,8 @@ export const oversettelser = {
       leveringsadresse: 'Leveringsadresse',
       levering: 'Estimert levering: 3–5 virkedager via Posten.',
       sporsmal: 'Har du spørsmål? Svar på denne e-posten.',
+      angrerett: 'Du har 14 dagers angrerett. Angreretten gjelder ikke spesialbestilte varer.',
+      angrerettLenke: 'Se angrerett og angreskjema',
     },
   },
   en: {
@@ -319,6 +328,13 @@ export const oversettelser = {
       fortsettHandle: 'Continue shopping',
       sikkerBetaling:
         'Secure payment via Stripe or Vipps. Card and account details are never stored by us.',
+      vilkar: {
+        pre: 'By completing your order you accept our ',
+        salgsbetingelser: 'terms of sale',
+        midt: ' and ',
+        angrerett: 'right of withdrawal',
+        post: '. The right of withdrawal does not apply to custom-made items.',
+      },
     },
     suksess: {
       tittel: 'Thank you for your purchase!',
@@ -359,6 +375,8 @@ export const oversettelser = {
       leveringsadresse: 'Delivery address',
       levering: 'Estimated delivery: 3–5 business days via Posten.',
       sporsmal: 'Questions? Just reply to this email.',
+      angrerett: 'You have a 14-day right of withdrawal. It does not apply to custom-made items.',
+      angrerettLenke: 'See right of withdrawal and withdrawal form',
     },
   },
 } as const;

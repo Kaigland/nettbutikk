@@ -237,6 +237,18 @@ export default function HandlekurvSide() {
       </div>
 
       <p className="mt-4 text-center text-xs text-stone-400">
+        {t.handlekurv.vilkar.pre}
+        <Link href="/salgsbetingelser" className="underline hover:text-stone-600 transition-colors">
+          {t.handlekurv.vilkar.salgsbetingelser}
+        </Link>
+        {t.handlekurv.vilkar.midt}
+        <Link href="/angrerett" className="underline hover:text-stone-600 transition-colors">
+          {t.handlekurv.vilkar.angrerett}
+        </Link>
+        {t.handlekurv.vilkar.post}
+      </p>
+
+      <p className="mt-2 text-center text-xs text-stone-400">
         {t.handlekurv.sikkerBetaling}
       </p>
     </div>

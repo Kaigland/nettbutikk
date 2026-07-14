@@ -26,6 +26,7 @@ export interface Ordrebekreftelse {
 
 export function byggOrdreHtml({ navn, linjer, totalKr, leveringsadresse, sprak = 'nb' }: Ordrebekreftelse): string {
   const t = oversettelser[sprak].epost;
+  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL;
 
   const rader = linjer
     .map(
@@ -69,6 +70,13 @@ export function byggOrdreHtml({ navn, linjer, totalKr, leveringsadresse, sprak =
       }
       <p style="color:#78716c;font-size:14px">${t.levering}</p>
       <p style="color:#78716c;font-size:14px">${t.sporsmal}</p>
+
+      ${
+        baseUrl
+          ? `<p style="color:#78716c;font-size:13px">${t.angrerett}
+        <a href="${baseUrl}/angrerett" style="color:#78716c">${t.angrerettLenke}</a>.</p>`
+          : `<p style="color:#78716c;font-size:13px">${t.angrerett}</p>`
+      }
 
       <hr style="border:none;border-top:1px solid #e7e5e4;margin:24px 0"/>
       <p style="color:#a8a29e;font-size:12px;text-align:center">Igland Woodcraft</p>

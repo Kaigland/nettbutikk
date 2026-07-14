@@ -1,11 +1,13 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { KurvVare } from '@/types';
+import { Sprak, lokaliserProdukt } from '@/lib/i18n';
 
 export const dynamic = 'force-dynamic';
 
 export async function POST(req: NextRequest) {
   try {
-    const { varer }: { varer: KurvVare[] } = await req.json();
+    const { varer, sprak }: { varer: KurvVare[]; sprak?: Sprak } = await req.json();
+    const valgtSprak: Sprak = sprak === 'en' ? 'en' : 'nb';
 
     if (!varer || varer.length === 0) {
       return NextResponse.json({ error: 'Handlekurven er tom' }, { status: 400 });
@@ -15,17 +17,19 @@ export async function POST(req: NextRequest) {
     const params = new URLSearchParams();
 
     varer.forEach((vare, i) => {
+      const { navn, beskrivelse } = lokaliserProdukt(vare.produkt, valgtSprak);
       params.append(`line_items[${i}][price_data][currency]`, 'nok');
-      params.append(`line_items[${i}][price_data][product_data][name]`, vare.produkt.navn);
+      params.append(`line_items[${i}][price_data][product_data][name]`, navn);
       params.append(
         `line_items[${i}][price_data][product_data][description]`,
-        vare.produkt.beskrivelse.substring(0, 200)
+        beskrivelse.substring(0, 200)
       );
       params.append(`line_items[${i}][price_data][unit_amount]`, String(vare.produkt.pris * 100));
       params.append(`line_items[${i}][quantity]`, String(vare.antall));
     });
 
     params.append('mode', 'payment');
+    params.append('locale', valgtSprak === 'en' ? 'en' : 'nb');
     params.append('success_url', `${baseUrl}/suksess?session_id={CHECKOUT_SESSION_ID}`);
     params.append('cancel_url', `${baseUrl}/avbrutt`);
     params.append('shipping_address_collection[allowed_countries][0]', 'NO');

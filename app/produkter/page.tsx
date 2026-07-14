@@ -4,21 +4,24 @@ import { useState } from 'react';
 import produkter from '@/data/produkter.json';
 import ProductCard from '@/components/ProductCard';
 import { Produkt } from '@/types';
+import { useLanguage } from '@/context/LanguageContext';
+import { kategoriEtikett } from '@/lib/i18n';
 
 type Filter = 'alle' | 'skåler' | 'krukker' | 'lysestaker' | 'serveringsfjøl' | 'figurer' | 'møbler' | 'annet';
 
-const kategorier: { verdi: Filter; etikett: string }[] = [
-  { verdi: 'alle',       etikett: 'Alle' },
-  { verdi: 'skåler',     etikett: 'Skåler' },
-  { verdi: 'krukker',    etikett: 'Krukker' },
-  { verdi: 'lysestaker', etikett: 'Lysestaker' },
-  { verdi: 'serveringsfjøl', etikett: 'Serveringsfjøl' },
-  { verdi: 'figurer',    etikett: 'Figurer' },
-  { verdi: 'møbler',     etikett: 'Møbler' },
-  { verdi: 'annet',      etikett: 'Annet' },
+const kategorier: Filter[] = [
+  'alle',
+  'skåler',
+  'krukker',
+  'lysestaker',
+  'serveringsfjøl',
+  'figurer',
+  'møbler',
+  'annet',
 ];
 
 export default function ProdukterSide() {
+  const { sprak, t } = useLanguage();
   const [valgtKategori, setValgtKategori] = useState<Filter>('alle');
 
   const filtrert = (produkter as Produkt[]).filter(
@@ -27,13 +30,13 @@ export default function ProdukterSide() {
 
   return (
     <div className="mx-auto max-w-6xl px-6 py-16">
-      <p className="text-tre-600 text-sm uppercase tracking-widest font-medium">Sortiment</p>
-      <h1 className="mt-1 font-serif text-4xl md:text-5xl font-bold text-stone-800">Produkter</h1>
-      <p className="mt-3 text-stone-500">Alle produkter er håndlaget og unike.</p>
+      <p className="text-tre-600 text-sm uppercase tracking-widest font-medium">{t.produkter.eyebrow}</p>
+      <h1 className="mt-1 font-serif text-4xl md:text-5xl font-bold text-stone-800">{t.produkter.tittel}</h1>
+      <p className="mt-3 text-stone-500">{t.produkter.undertittel}</p>
 
       {/* Kategorifilter */}
       <div className="mt-8 flex gap-3 flex-wrap">
-        {kategorier.map(({ verdi, etikett }) => (
+        {kategorier.map(verdi => (
           <button
             key={verdi}
             onClick={() => setValgtKategori(verdi)}
@@ -43,7 +46,7 @@ export default function ProdukterSide() {
                 : 'bg-stone-100 text-stone-600 hover:bg-stone-200'
             }`}
           >
-            {etikett}
+            {kategoriEtikett(verdi, sprak)}
           </button>
         ))}
       </div>
@@ -57,7 +60,7 @@ export default function ProdukterSide() {
 
       {filtrert.length === 0 && (
         <p className="mt-20 text-center text-stone-400 text-lg">
-          Ingen produkter i denne kategorien for øyeblikket.
+          {t.produkter.ingen}
         </p>
       )}
     </div>

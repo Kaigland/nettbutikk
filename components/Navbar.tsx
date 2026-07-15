@@ -17,7 +17,7 @@ export default function Navbar() {
     <nav className="sticky top-0 z-50 bg-white/95 backdrop-blur border-b border-stone-100">
       <div className="mx-auto max-w-6xl px-6 pt-8 pb-2 flex items-end justify-between">
         <Link href="/">
-          <img src={logo} alt="Igland Woodcraft" className="h-[70px] w-auto" />
+          <img src={logo} alt="Igland Woodcraft" className="h-[70px] w-auto -ml-[35px]" />
         </Link>
 
         <div className="hidden md:flex items-center gap-8">
